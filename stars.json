@@ -1,7 +1,7 @@
 [
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 5177,
+    "stargazers_count": 5178,
     "open_issues_count": 89,
     "forks_count": 278
   },
@@ -13,8 +13,8 @@
   },
   {
     "full_name": "tensorchord/envd",
-    "stargazers_count": 379,
-    "open_issues_count": 80,
+    "stargazers_count": 383,
+    "open_issues_count": 79,
     "forks_count": 22
   },
   {
@@ -25,14 +25,14 @@
   },
   {
     "full_name": "kubernetes-sigs/node-feature-discovery",
-    "stargazers_count": 446,
+    "stargazers_count": 447,
     "open_issues_count": 22,
     "forks_count": 170
   },
   {
     "full_name": "CeresDB/ceresdb",
-    "stargazers_count": 1012,
-    "open_issues_count": 13,
+    "stargazers_count": 1013,
+    "open_issues_count": 12,
     "forks_count": 60
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "ory/kratos",
-    "stargazers_count": 6918,
+    "stargazers_count": 6921,
     "open_issues_count": 184,
     "forks_count": 595
   },
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "moby/buildkit",
-    "stargazers_count": 5351,
+    "stargazers_count": 5352,
     "open_issues_count": 412,
     "forks_count": 696
   },
   {
     "full_name": "xianfei/SysMocap",
-    "stargazers_count": 1194,
+    "stargazers_count": 1196,
     "open_issues_count": 15,
-    "forks_count": 184
+    "forks_count": 185
   },
   {
     "full_name": "pingcap/ossinsight",
@@ -116,7 +116,7 @@
   {
     "full_name": "aquasecurity/tracee",
     "stargazers_count": 1931,
-    "open_issues_count": 182,
+    "open_issues_count": 183,
     "forks_count": 224
   },
   {
@@ -140,7 +140,7 @@
   {
     "full_name": "quickemu-project/quickemu",
     "stargazers_count": 4820,
-    "open_issues_count": 82,
+    "open_issues_count": 83,
     "forks_count": 248
   },
   {
