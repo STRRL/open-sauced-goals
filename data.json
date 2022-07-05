@@ -1,38 +1,38 @@
 [
   {
     "full_name": "Rigellute/spotify-tui",
-    "stargazers_count": 12606,
+    "stargazers_count": 12617,
     "open_issues_count": 219,
     "forks_count": 407
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 5222,
+    "stargazers_count": 5233,
     "open_issues_count": 93,
-    "forks_count": 279
+    "forks_count": 280
   },
   {
     "full_name": "kubernetes-sigs/controller-runtime",
-    "stargazers_count": 1558,
+    "stargazers_count": 1560,
     "open_issues_count": 122,
-    "forks_count": 807
+    "forks_count": 808
   },
   {
     "full_name": "chaos-mesh/chaos-mesh",
-    "stargazers_count": 4910,
-    "open_issues_count": 306,
+    "stargazers_count": 4916,
+    "open_issues_count": 305,
     "forks_count": 617
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 89808,
-    "open_issues_count": 2373,
-    "forks_count": 32916
+    "stargazers_count": 89880,
+    "open_issues_count": 2371,
+    "forks_count": 32939
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 710,
+    "stargazers_count": 712,
     "open_issues_count": 16,
-    "forks_count": 298
+    "forks_count": 302
   }
 ]
