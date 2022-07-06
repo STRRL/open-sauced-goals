@@ -1,7 +1,7 @@
 [
   {
     "full_name": "Inochi2D/inochi2d",
-    "stargazers_count": 386,
+    "stargazers_count": 388,
     "open_issues_count": 9,
     "forks_count": 9
   },
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "netless-io/flat",
-    "stargazers_count": 3945,
+    "stargazers_count": 3949,
     "open_issues_count": 13,
     "forks_count": 501
   },
   {
     "full_name": "bytedance/monoio",
-    "stargazers_count": 2010,
+    "stargazers_count": 2012,
     "open_issues_count": 16,
     "forks_count": 96
   },
@@ -27,7 +27,7 @@
     "full_name": "badafans/better-cloudflare-ip",
     "stargazers_count": 782,
     "open_issues_count": 9,
-    "forks_count": 354
+    "forks_count": 355
   },
   {
     "full_name": "pingcar/emoji",
@@ -37,31 +37,31 @@
   },
   {
     "full_name": "spiffe/spiffe",
-    "stargazers_count": 1043,
+    "stargazers_count": 1044,
     "open_issues_count": 12,
     "forks_count": 124
   },
   {
     "full_name": "tauri-apps/wry",
-    "stargazers_count": 1691,
-    "open_issues_count": 57,
+    "stargazers_count": 1696,
+    "open_issues_count": 58,
     "forks_count": 97
   },
   {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 45733,
-    "open_issues_count": 182,
-    "forks_count": 1138
+    "stargazers_count": 45817,
+    "open_issues_count": 172,
+    "forks_count": 1142
   },
   {
     "full_name": "spiffe/spire",
-    "stargazers_count": 1184,
-    "open_issues_count": 207,
+    "stargazers_count": 1185,
+    "open_issues_count": 210,
     "forks_count": 314
   },
   {
     "full_name": "sachaos/todoist",
-    "stargazers_count": 1146,
+    "stargazers_count": 1148,
     "open_issues_count": 64,
     "forks_count": 87
   },
@@ -73,44 +73,44 @@
   },
   {
     "full_name": "electron-userland/electron-builder",
-    "stargazers_count": 12146,
-    "open_issues_count": 229,
+    "stargazers_count": 12145,
+    "open_issues_count": 228,
     "forks_count": 1551
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 8505,
-    "open_issues_count": 140,
-    "forks_count": 306
+    "stargazers_count": 8513,
+    "open_issues_count": 142,
+    "forks_count": 307
   },
   {
     "full_name": "juanfont/headscale",
-    "stargazers_count": 5516,
+    "stargazers_count": 5539,
     "open_issues_count": 50,
     "forks_count": 311
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 5233,
+    "stargazers_count": 5237,
     "open_issues_count": 93,
     "forks_count": 280
   },
   {
     "full_name": "Rigellute/spotify-tui",
-    "stargazers_count": 12617,
+    "stargazers_count": 12622,
     "open_issues_count": 219,
     "forks_count": 407
   },
   {
     "full_name": "tensorchord/envd",
-    "stargazers_count": 623,
-    "open_issues_count": 93,
-    "forks_count": 38
+    "stargazers_count": 632,
+    "open_issues_count": 92,
+    "forks_count": 39
   },
   {
     "full_name": "fdehau/tui-rs",
-    "stargazers_count": 7920,
-    "open_issues_count": 113,
+    "stargazers_count": 7930,
+    "open_issues_count": 114,
     "forks_count": 404
   },
   {
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "CeresDB/ceresdb",
-    "stargazers_count": 1245,
-    "open_issues_count": 27,
+    "stargazers_count": 1252,
+    "open_issues_count": 26,
     "forks_count": 71
   },
   {
     "full_name": "keptn/keptn",
-    "stargazers_count": 1406,
-    "open_issues_count": 346,
+    "stargazers_count": 1408,
+    "open_issues_count": 347,
     "forks_count": 213
   },
   {
     "full_name": "ory/kratos",
-    "stargazers_count": 7146,
-    "open_issues_count": 189,
-    "forks_count": 606
+    "stargazers_count": 7156,
+    "open_issues_count": 190,
+    "forks_count": 608
   },
   {
     "full_name": "tianon/gosu",
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "ergo-services/ergo",
-    "stargazers_count": 1668,
+    "stargazers_count": 1670,
     "open_issues_count": 8,
-    "forks_count": 84
+    "forks_count": 85
   },
   {
     "full_name": "kubernetes-sigs/controller-tools",
     "stargazers_count": 440,
-    "open_issues_count": 39,
+    "open_issues_count": 38,
     "forks_count": 315
   },
   {
     "full_name": "Planetable/Planet",
-    "stargazers_count": 540,
+    "stargazers_count": 541,
     "open_issues_count": 13,
     "forks_count": 19
   },
   {
     "full_name": "moby/buildkit",
-    "stargazers_count": 5432,
-    "open_issues_count": 421,
-    "forks_count": 710
+    "stargazers_count": 5442,
+    "open_issues_count": 423,
+    "forks_count": 711
   },
   {
     "full_name": "xianfei/SysMocap",
-    "stargazers_count": 1334,
+    "stargazers_count": 1340,
     "open_issues_count": 17,
-    "forks_count": 213
+    "forks_count": 214
   },
   {
     "full_name": "pingcap/ossinsight",
     "stargazers_count": 238,
-    "open_issues_count": 10,
-    "forks_count": 45
+    "open_issues_count": 12,
+    "forks_count": 46
   }
 ]
