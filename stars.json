@@ -1,19 +1,19 @@
 [
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 43369,
-    "open_issues_count": 282,
-    "forks_count": 10410
+    "stargazers_count": 43410,
+    "open_issues_count": 280,
+    "forks_count": 10426
   },
   {
     "full_name": "cloudflare/gokey",
-    "stargazers_count": 1049,
-    "open_issues_count": 10,
-    "forks_count": 61
+    "stargazers_count": 1115,
+    "open_issues_count": 5,
+    "forks_count": 62
   },
   {
     "full_name": "stateright/stateright",
-    "stargazers_count": 1225,
+    "stargazers_count": 1227,
     "open_issues_count": 12,
     "forks_count": 34
   },
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "netless-io/flat",
-    "stargazers_count": 3960,
+    "stargazers_count": 3965,
     "open_issues_count": 13,
     "forks_count": 502
   },
   {
     "full_name": "bytedance/monoio",
-    "stargazers_count": 2020,
-    "open_issues_count": 18,
+    "stargazers_count": 2025,
+    "open_issues_count": 16,
     "forks_count": 95
   },
   {
     "full_name": "badafans/better-cloudflare-ip",
-    "stargazers_count": 797,
+    "stargazers_count": 798,
     "open_issues_count": 9,
-    "forks_count": 358
+    "forks_count": 359
   },
   {
     "full_name": "pingcar/emoji",
@@ -79,25 +79,25 @@
   },
   {
     "full_name": "tauri-apps/wry",
-    "stargazers_count": 1732,
+    "stargazers_count": 1738,
     "open_issues_count": 56,
     "forks_count": 99
   },
   {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 46430,
-    "open_issues_count": 190,
-    "forks_count": 1152
+    "stargazers_count": 46532,
+    "open_issues_count": 188,
+    "forks_count": 1155
   },
   {
     "full_name": "spiffe/spire",
     "stargazers_count": 1191,
-    "open_issues_count": 205,
+    "open_issues_count": 208,
     "forks_count": 316
   },
   {
     "full_name": "sachaos/todoist",
-    "stargazers_count": 1151,
+    "stargazers_count": 1152,
     "open_issues_count": 65,
     "forks_count": 87
   },
@@ -105,35 +105,35 @@
     "full_name": "tmate-io/tmate",
     "stargazers_count": 4846,
     "open_issues_count": 82,
-    "forks_count": 269
+    "forks_count": 268
   },
   {
     "full_name": "electron-userland/electron-builder",
     "stargazers_count": 12159,
-    "open_issues_count": 228,
-    "forks_count": 1555
+    "open_issues_count": 230,
+    "forks_count": 1556
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 8580,
-    "open_issues_count": 138,
-    "forks_count": 313
+    "stargazers_count": 8588,
+    "open_issues_count": 140,
+    "forks_count": 316
   },
   {
     "full_name": "juanfont/headscale",
-    "stargazers_count": 5613,
-    "open_issues_count": 52,
+    "stargazers_count": 5624,
+    "open_issues_count": 53,
     "forks_count": 311
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 5254,
-    "open_issues_count": 93,
-    "forks_count": 281
+    "stargazers_count": 5260,
+    "open_issues_count": 95,
+    "forks_count": 282
   },
   {
     "full_name": "Rigellute/spotify-tui",
-    "stargazers_count": 12677,
+    "stargazers_count": 12691,
     "open_issues_count": 219,
     "forks_count": 408
   },
@@ -145,37 +145,37 @@
   },
   {
     "full_name": "fdehau/tui-rs",
-    "stargazers_count": 7963,
+    "stargazers_count": 7968,
     "open_issues_count": 117,
     "forks_count": 409
   },
   {
     "full_name": "kubernetes-sigs/node-feature-discovery",
-    "stargazers_count": 454,
-    "open_issues_count": 32,
+    "stargazers_count": 455,
+    "open_issues_count": 33,
     "forks_count": 171
   },
   {
     "full_name": "CeresDB/ceresdb",
-    "stargazers_count": 1285,
+    "stargazers_count": 1287,
     "open_issues_count": 29,
     "forks_count": 70
   },
   {
     "full_name": "keptn/keptn",
     "stargazers_count": 1409,
-    "open_issues_count": 318,
-    "forks_count": 213
+    "open_issues_count": 303,
+    "forks_count": 214
   },
   {
     "full_name": "ory/kratos",
-    "stargazers_count": 7211,
-    "open_issues_count": 190,
-    "forks_count": 610
+    "stargazers_count": 7214,
+    "open_issues_count": 188,
+    "forks_count": 612
   },
   {
     "full_name": "tianon/gosu",
-    "stargazers_count": 4103,
+    "stargazers_count": 4106,
     "open_issues_count": 4,
     "forks_count": 278
   }
