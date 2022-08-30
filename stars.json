@@ -1,19 +1,19 @@
 [
   {
     "full_name": "Kr328/ClashForAndroid",
-    "stargazers_count": 15870,
+    "stargazers_count": 15911,
     "open_issues_count": 77,
-    "forks_count": 1971
+    "forks_count": 1975
   },
   {
     "full_name": "RustCrypto/crypto-bigint",
-    "stargazers_count": 72,
-    "open_issues_count": 8,
+    "stargazers_count": 73,
+    "open_issues_count": 7,
     "forks_count": 14
   },
   {
     "full_name": "gnif/vendor-reset",
-    "stargazers_count": 513,
+    "stargazers_count": 514,
     "open_issues_count": 23,
     "forks_count": 35
   },
@@ -27,11 +27,11 @@
     "full_name": "grafana-operator/grafana-operator",
     "stargazers_count": 466,
     "open_issues_count": 35,
-    "forks_count": 262
+    "forks_count": 263
   },
   {
     "full_name": "paralus/paralus",
-    "stargazers_count": 205,
+    "stargazers_count": 210,
     "open_issues_count": 10,
     "forks_count": 13
   },
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "BrainiumLLC/cargo-mobile",
-    "stargazers_count": 746,
+    "stargazers_count": 747,
     "open_issues_count": 28,
     "forks_count": 48
   },
@@ -68,20 +68,20 @@
   {
     "full_name": "DimensionDev/Maskbook",
     "stargazers_count": 1233,
-    "open_issues_count": 104,
-    "forks_count": 275
+    "open_issues_count": 100,
+    "forks_count": 276
   },
   {
     "full_name": "Young-ook/terraform-aws-eks",
     "stargazers_count": 98,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 69
   },
   {
     "full_name": "prometheus-operator/kube-prometheus",
-    "stargazers_count": 4433,
-    "open_issues_count": 160,
-    "forks_count": 1443
+    "stargazers_count": 4436,
+    "open_issues_count": 159,
+    "forks_count": 1445
   },
   {
     "full_name": "pkalogiros/AudioMass",
@@ -91,38 +91,38 @@
   },
   {
     "full_name": "WerWolv/ImHex",
-    "stargazers_count": 20675,
-    "open_issues_count": 56,
-    "forks_count": 921
+    "stargazers_count": 20735,
+    "open_issues_count": 57,
+    "forks_count": 924
   },
   {
     "full_name": "ehids/ecapture",
-    "stargazers_count": 4179,
+    "stargazers_count": 4182,
     "open_issues_count": 4,
     "forks_count": 466
   },
   {
     "full_name": "PinkD/corplink-rs",
-    "stargazers_count": 19,
-    "open_issues_count": 1,
+    "stargazers_count": 20,
+    "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "metacontroller/metacontroller",
-    "stargazers_count": 460,
-    "open_issues_count": 52,
-    "forks_count": 52
+    "stargazers_count": 471,
+    "open_issues_count": 53,
+    "forks_count": 53
   },
   {
     "full_name": "sieve-project/sieve",
-    "stargazers_count": 157,
+    "stargazers_count": 160,
     "open_issues_count": 6,
     "forks_count": 12
   },
   {
     "full_name": "smartxworks/virtink",
-    "stargazers_count": 205,
-    "open_issues_count": 4,
+    "stargazers_count": 207,
+    "open_issues_count": 7,
     "forks_count": 10
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "dendronhq/dendron",
-    "stargazers_count": 4366,
-    "open_issues_count": 651,
-    "forks_count": 177
+    "stargazers_count": 4372,
+    "open_issues_count": 654,
+    "forks_count": 178
   }
 ]
