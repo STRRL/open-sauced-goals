@@ -1,33 +1,45 @@
 [
   {
+    "full_name": "IdreesInc/Monocraft",
+    "stargazers_count": 3003,
+    "open_issues_count": 21,
+    "forks_count": 30
+  },
+  {
+    "full_name": "sloganking/codevis",
+    "stargazers_count": 122,
+    "open_issues_count": 6,
+    "forks_count": 5
+  },
+  {
     "full_name": "NextAlone/Nagram",
-    "stargazers_count": 89,
+    "stargazers_count": 93,
     "open_issues_count": 3,
     "forks_count": 15
   },
   {
     "full_name": "ubershmekel/vite-phaser-ts-starter",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "photonstorm/phaser",
-    "stargazers_count": 32717,
-    "open_issues_count": 169,
-    "forks_count": 6799
+    "stargazers_count": 32742,
+    "open_issues_count": 174,
+    "forks_count": 6805
   },
   {
     "full_name": "greenheartgames/greenworks",
-    "stargazers_count": 1331,
+    "stargazers_count": 1332,
     "open_issues_count": 55,
     "forks_count": 145
   },
   {
     "full_name": "Kr328/ClashForAndroid",
-    "stargazers_count": 16067,
-    "open_issues_count": 78,
-    "forks_count": 1986
+    "stargazers_count": 16128,
+    "open_issues_count": 79,
+    "forks_count": 1988
   },
   {
     "full_name": "RustCrypto/crypto-bigint",
@@ -39,7 +51,7 @@
     "full_name": "gnif/vendor-reset",
     "stargazers_count": 518,
     "open_issues_count": 24,
-    "forks_count": 35
+    "forks_count": 36
   },
   {
     "full_name": "benjojo/alertmanager-discord",
@@ -49,32 +61,32 @@
   },
   {
     "full_name": "grafana-operator/grafana-operator",
-    "stargazers_count": 469,
-    "open_issues_count": 36,
+    "stargazers_count": 471,
+    "open_issues_count": 35,
     "forks_count": 264
   },
   {
     "full_name": "paralus/paralus",
-    "stargazers_count": 246,
-    "open_issues_count": 9,
+    "stargazers_count": 256,
+    "open_issues_count": 12,
     "forks_count": 16
   },
   {
     "full_name": "bbqsrc/cargo-ndk",
-    "stargazers_count": 315,
+    "stargazers_count": 316,
     "open_issues_count": 1,
     "forks_count": 35
   },
   {
     "full_name": "BrainiumLLC/cargo-mobile",
-    "stargazers_count": 753,
+    "stargazers_count": 757,
     "open_issues_count": 28,
     "forks_count": 48
   },
   {
     "full_name": "xlgao-zju/argo-chaos-mesh-plugin",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
@@ -91,21 +103,21 @@
   },
   {
     "full_name": "DimensionDev/Maskbook",
-    "stargazers_count": 1236,
-    "open_issues_count": 108,
-    "forks_count": 279
+    "stargazers_count": 1238,
+    "open_issues_count": 110,
+    "forks_count": 280
   },
   {
     "full_name": "Young-ook/terraform-aws-eks",
-    "stargazers_count": 98,
-    "open_issues_count": 1,
-    "forks_count": 69
+    "stargazers_count": 99,
+    "open_issues_count": 2,
+    "forks_count": 68
   },
   {
     "full_name": "prometheus-operator/kube-prometheus",
-    "stargazers_count": 4465,
+    "stargazers_count": 4483,
     "open_issues_count": 162,
-    "forks_count": 1450
+    "forks_count": 1455
   },
   {
     "full_name": "pkalogiros/AudioMass",
@@ -115,26 +127,26 @@
   },
   {
     "full_name": "WerWolv/ImHex",
-    "stargazers_count": 20858,
-    "open_issues_count": 55,
-    "forks_count": 935
+    "stargazers_count": 20899,
+    "open_issues_count": 56,
+    "forks_count": 937
   },
   {
     "full_name": "ehids/ecapture",
-    "stargazers_count": 4209,
-    "open_issues_count": 4,
+    "stargazers_count": 4223,
+    "open_issues_count": 3,
     "forks_count": 470
   },
   {
     "full_name": "PinkD/corplink-rs",
     "stargazers_count": 21,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "metacontroller/metacontroller",
-    "stargazers_count": 486,
-    "open_issues_count": 49,
+    "stargazers_count": 488,
+    "open_issues_count": 47,
     "forks_count": 53
   },
   {
@@ -145,7 +157,7 @@
   },
   {
     "full_name": "smartxworks/virtink",
-    "stargazers_count": 211,
+    "stargazers_count": 214,
     "open_issues_count": 7,
     "forks_count": 10
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "kubewharf/kubebrain",
-    "stargazers_count": 302,
-    "open_issues_count": 2,
-    "forks_count": 31
-  },
-  {
-    "full_name": "Zheaoli/cool-weekly",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 3
   }
 ]
