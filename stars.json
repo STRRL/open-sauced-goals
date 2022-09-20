@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "InitWare/InitWare",
+    "stargazers_count": 155,
+    "open_issues_count": 15,
+    "forks_count": 3
+  },
+  {
     "full_name": "weaveworks/kured",
-    "stargazers_count": 1533,
-    "open_issues_count": 41,
-    "forks_count": 174
+    "stargazers_count": 1537,
+    "open_issues_count": 39,
+    "forks_count": 176
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 408,
-    "open_issues_count": 18,
+    "stargazers_count": 428,
+    "open_issues_count": 19,
     "forks_count": 26
   },
   {
     "full_name": "IdreesInc/Monocraft",
-    "stargazers_count": 4226,
-    "open_issues_count": 27,
-    "forks_count": 44
+    "stargazers_count": 4375,
+    "open_issues_count": 28,
+    "forks_count": 45
   },
   {
     "full_name": "sloganking/codevis",
-    "stargazers_count": 160,
-    "open_issues_count": 8,
-    "forks_count": 6
+    "stargazers_count": 165,
+    "open_issues_count": 9,
+    "forks_count": 5
   },
   {
     "full_name": "NextAlone/Nagram",
@@ -31,15 +37,15 @@
   },
   {
     "full_name": "ubershmekel/vite-phaser-ts-starter",
-    "stargazers_count": 33,
+    "stargazers_count": 34,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "photonstorm/phaser",
-    "stargazers_count": 32776,
+    "stargazers_count": 32813,
     "open_issues_count": 177,
-    "forks_count": 6811
+    "forks_count": 6812
   },
   {
     "full_name": "greenheartgames/greenworks",
@@ -49,14 +55,14 @@
   },
   {
     "full_name": "Kr328/ClashForAndroid",
-    "stargazers_count": 16240,
-    "open_issues_count": 81,
-    "forks_count": 2000
+    "stargazers_count": 16320,
+    "open_issues_count": 82,
+    "forks_count": 2007
   },
   {
     "full_name": "RustCrypto/crypto-bigint",
     "stargazers_count": 73,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 14
   },
   {
@@ -73,25 +79,25 @@
   },
   {
     "full_name": "grafana-operator/grafana-operator",
-    "stargazers_count": 472,
+    "stargazers_count": 473,
     "open_issues_count": 32,
     "forks_count": 264
   },
   {
     "full_name": "paralus/paralus",
-    "stargazers_count": 277,
-    "open_issues_count": 13,
+    "stargazers_count": 338,
+    "open_issues_count": 18,
     "forks_count": 19
   },
   {
     "full_name": "bbqsrc/cargo-ndk",
-    "stargazers_count": 323,
+    "stargazers_count": 324,
     "open_issues_count": 1,
     "forks_count": 36
   },
   {
     "full_name": "BrainiumLLC/cargo-mobile",
-    "stargazers_count": 765,
+    "stargazers_count": 768,
     "open_issues_count": 28,
     "forks_count": 48
   },
@@ -102,7 +108,7 @@
     "forks_count": 1
   },
   {
-    "full_name": "korandoru/dryad",
+    "full_name": "korandoru/zeronos",
     "stargazers_count": 11,
     "open_issues_count": 3,
     "forks_count": 5
@@ -115,39 +121,39 @@
   },
   {
     "full_name": "DimensionDev/Maskbook",
-    "stargazers_count": 1243,
-    "open_issues_count": 100,
+    "stargazers_count": 1244,
+    "open_issues_count": 96,
     "forks_count": 282
   },
   {
     "full_name": "Young-ook/terraform-aws-eks",
     "stargazers_count": 99,
     "open_issues_count": 3,
-    "forks_count": 68
+    "forks_count": 69
   },
   {
     "full_name": "prometheus-operator/kube-prometheus",
-    "stargazers_count": 4512,
-    "open_issues_count": 163,
-    "forks_count": 1463
+    "stargazers_count": 4522,
+    "open_issues_count": 165,
+    "forks_count": 1466
   },
   {
     "full_name": "pkalogiros/AudioMass",
-    "stargazers_count": 1627,
+    "stargazers_count": 1631,
     "open_issues_count": 47,
     "forks_count": 160
   },
   {
     "full_name": "WerWolv/ImHex",
-    "stargazers_count": 20997,
+    "stargazers_count": 21093,
     "open_issues_count": 57,
-    "forks_count": 945
+    "forks_count": 952
   },
   {
     "full_name": "ehids/ecapture",
-    "stargazers_count": 4631,
-    "open_issues_count": 5,
-    "forks_count": 498
+    "stargazers_count": 4710,
+    "open_issues_count": 4,
+    "forks_count": 502
   },
   {
     "full_name": "PinkD/corplink-rs",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "metacontroller/metacontroller",
-    "stargazers_count": 494,
-    "open_issues_count": 42,
-    "forks_count": 55
+    "stargazers_count": 497,
+    "open_issues_count": 43,
+    "forks_count": 56
   },
   {
     "full_name": "sieve-project/sieve",
-    "stargazers_count": 168,
+    "stargazers_count": 169,
     "open_issues_count": 6,
     "forks_count": 12
   },
   {
     "full_name": "smartxworks/virtink",
-    "stargazers_count": 216,
-    "open_issues_count": 6,
+    "stargazers_count": 219,
+    "open_issues_count": 7,
     "forks_count": 10
-  },
-  {
-    "full_name": "let-sh/cli",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
