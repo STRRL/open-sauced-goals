@@ -1,21 +1,21 @@
 [
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 15005,
+    "stargazers_count": 15207,
     "open_issues_count": 102,
-    "forks_count": 691
+    "forks_count": 701
   },
   {
     "full_name": "gschup/ggrs",
-    "stargazers_count": 242,
+    "stargazers_count": 243,
     "open_issues_count": 2,
     "forks_count": 9
   },
   {
     "full_name": "deepnight/ldtk",
-    "stargazers_count": 2156,
-    "open_issues_count": 170,
-    "forks_count": 113
+    "stargazers_count": 2161,
+    "open_issues_count": 174,
+    "forks_count": 114
   },
   {
     "full_name": "kubernetes-sigs/kube-storage-version-migrator",
@@ -25,55 +25,55 @@
   },
   {
     "full_name": "opencost/opencost",
-    "stargazers_count": 2809,
-    "open_issues_count": 114,
-    "forks_count": 272
+    "stargazers_count": 2814,
+    "open_issues_count": 116,
+    "forks_count": 273
   },
   {
     "full_name": "BrunoLevy/learn-fpga",
-    "stargazers_count": 1160,
+    "stargazers_count": 1164,
     "open_issues_count": 32,
-    "forks_count": 116
+    "forks_count": 117
   },
   {
     "full_name": "concourse/concourse",
     "stargazers_count": 6567,
-    "open_issues_count": 871,
-    "forks_count": 822
+    "open_issues_count": 874,
+    "forks_count": 826
   },
   {
     "full_name": "InitWare/InitWare",
-    "stargazers_count": 154,
-    "open_issues_count": 15,
+    "stargazers_count": 155,
+    "open_issues_count": 16,
     "forks_count": 3
   },
   {
     "full_name": "kubereboot/kured",
-    "stargazers_count": 1555,
+    "stargazers_count": 1557,
     "open_issues_count": 38,
-    "forks_count": 177
+    "forks_count": 178
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 459,
+    "stargazers_count": 462,
     "open_issues_count": 19,
     "forks_count": 26
   },
   {
     "full_name": "IdreesInc/Monocraft",
-    "stargazers_count": 4674,
-    "open_issues_count": 30,
-    "forks_count": 48
+    "stargazers_count": 4707,
+    "open_issues_count": 26,
+    "forks_count": 49
   },
   {
     "full_name": "sloganking/codevis",
     "stargazers_count": 189,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 6
   },
   {
     "full_name": "NextAlone/Nagram",
-    "stargazers_count": 99,
+    "stargazers_count": 102,
     "open_issues_count": 3,
     "forks_count": 16
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "photonstorm/phaser",
-    "stargazers_count": 32903,
-    "open_issues_count": 165,
-    "forks_count": 6825
+    "stargazers_count": 32912,
+    "open_issues_count": 166,
+    "forks_count": 6828
   },
   {
     "full_name": "greenheartgames/greenworks",
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "Kr328/ClashForAndroid",
-    "stargazers_count": 16597,
-    "open_issues_count": 82,
-    "forks_count": 2026
+    "stargazers_count": 16660,
+    "open_issues_count": 83,
+    "forks_count": 2031
   },
   {
     "full_name": "RustCrypto/crypto-bigint",
-    "stargazers_count": 74,
-    "open_issues_count": 11,
+    "stargazers_count": 76,
+    "open_issues_count": 10,
     "forks_count": 16
   },
   {
     "full_name": "gnif/vendor-reset",
-    "stargazers_count": 526,
+    "stargazers_count": 527,
     "open_issues_count": 24,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "full_name": "benjojo/alertmanager-discord",
@@ -121,14 +121,14 @@
   },
   {
     "full_name": "grafana-operator/grafana-operator",
-    "stargazers_count": 479,
-    "open_issues_count": 31,
-    "forks_count": 268
+    "stargazers_count": 483,
+    "open_issues_count": 33,
+    "forks_count": 270
   },
   {
     "full_name": "paralus/paralus",
-    "stargazers_count": 401,
-    "open_issues_count": 15,
+    "stargazers_count": 407,
+    "open_issues_count": 17,
     "forks_count": 22
   },
   {
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "BrainiumLLC/cargo-mobile",
-    "stargazers_count": 774,
+    "stargazers_count": 775,
     "open_issues_count": 28,
     "forks_count": 48
   },
@@ -152,7 +152,7 @@
   {
     "full_name": "korandoru/zeronos",
     "stargazers_count": 11,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 5
   },
   {
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "DimensionDev/Maskbook",
-    "stargazers_count": 1250,
+    "stargazers_count": 1249,
     "open_issues_count": 82,
     "forks_count": 282
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "prometheus-operator/kube-prometheus",
-    "stargazers_count": 4556,
-    "open_issues_count": 165,
-    "forks_count": 1477
+    "stargazers_count": 4561,
+    "open_issues_count": 166,
+    "forks_count": 1479
   }
 ]
