@@ -1,45 +1,57 @@
 [
   {
+    "full_name": "anymaniax/orval",
+    "stargazers_count": 856,
+    "open_issues_count": 86,
+    "forks_count": 112
+  },
+  {
+    "full_name": "ent/ent",
+    "stargazers_count": 12290,
+    "open_issues_count": 268,
+    "forks_count": 713
+  },
+  {
     "full_name": "self-actuated/actuated",
-    "stargazers_count": 78,
+    "stargazers_count": 82,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "artginzburg/sudo-touchid",
-    "stargazers_count": 213,
+    "stargazers_count": 226,
     "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "hfg-gmuend/openmoji",
-    "stargazers_count": 2515,
-    "open_issues_count": 32,
-    "forks_count": 162
+    "stargazers_count": 2517,
+    "open_issues_count": 29,
+    "forks_count": 163
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 12158,
-    "open_issues_count": 149,
-    "forks_count": 1468
+    "stargazers_count": 12222,
+    "open_issues_count": 150,
+    "forks_count": 1478
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 30832,
-    "open_issues_count": 32,
-    "forks_count": 1887
+    "stargazers_count": 30912,
+    "open_issues_count": 37,
+    "forks_count": 1895
   },
   {
     "full_name": "emilk/egui",
-    "stargazers_count": 11512,
+    "stargazers_count": 11590,
     "open_issues_count": 279,
-    "forks_count": 782
+    "forks_count": 792
   },
   {
     "full_name": "bevyengine/bevy",
-    "stargazers_count": 19517,
-    "open_issues_count": 1276,
-    "forks_count": 1945
+    "stargazers_count": 19604,
+    "open_issues_count": 1280,
+    "forks_count": 1952
   },
   {
     "full_name": "snok/container-retention-policy",
@@ -49,31 +61,31 @@
   },
   {
     "full_name": "kubernetes-sigs/bom",
-    "stargazers_count": 156,
+    "stargazers_count": 159,
     "open_issues_count": 16,
     "forks_count": 23
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 8737,
-    "open_issues_count": 11,
-    "forks_count": 1006
+    "stargazers_count": 8784,
+    "open_issues_count": 12,
+    "forks_count": 1013
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 15434,
+    "stargazers_count": 15451,
     "open_issues_count": 108,
-    "forks_count": 725
+    "forks_count": 731
   },
   {
     "full_name": "gschup/ggrs",
-    "stargazers_count": 254,
-    "open_issues_count": 2,
-    "forks_count": 9
+    "stargazers_count": 258,
+    "open_issues_count": 3,
+    "forks_count": 10
   },
   {
     "full_name": "deepnight/ldtk",
-    "stargazers_count": 2202,
+    "stargazers_count": 2210,
     "open_issues_count": 184,
     "forks_count": 119
   },
@@ -85,21 +97,21 @@
   },
   {
     "full_name": "opencost/opencost",
-    "stargazers_count": 2883,
-    "open_issues_count": 125,
-    "forks_count": 285
+    "stargazers_count": 2890,
+    "open_issues_count": 127,
+    "forks_count": 286
   },
   {
     "full_name": "BrunoLevy/learn-fpga",
-    "stargazers_count": 1201,
+    "stargazers_count": 1208,
     "open_issues_count": 33,
     "forks_count": 120
   },
   {
     "full_name": "concourse/concourse",
-    "stargazers_count": 6634,
-    "open_issues_count": 871,
-    "forks_count": 830
+    "stargazers_count": 6644,
+    "open_issues_count": 874,
+    "forks_count": 831
   },
   {
     "full_name": "InitWare/InitWare",
@@ -109,74 +121,62 @@
   },
   {
     "full_name": "kubereboot/kured",
-    "stargazers_count": 1580,
-    "open_issues_count": 37,
+    "stargazers_count": 1584,
+    "open_issues_count": 36,
     "forks_count": 180
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 579,
-    "open_issues_count": 26,
+    "stargazers_count": 587,
+    "open_issues_count": 27,
     "forks_count": 32
   },
   {
     "full_name": "IdreesInc/Monocraft",
-    "stargazers_count": 5156,
-    "open_issues_count": 28,
-    "forks_count": 59
+    "stargazers_count": 5305,
+    "open_issues_count": 31,
+    "forks_count": 63
   },
   {
     "full_name": "sloganking/codevis",
-    "stargazers_count": 190,
+    "stargazers_count": 191,
     "open_issues_count": 10,
     "forks_count": 6
   },
   {
     "full_name": "NextAlone/Nagram",
-    "stargazers_count": 129,
+    "stargazers_count": 130,
     "open_issues_count": 3,
     "forks_count": 17
   },
   {
     "full_name": "ubershmekel/vite-phaser-ts-starter",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "photonstorm/phaser",
-    "stargazers_count": 33075,
-    "open_issues_count": 155,
+    "stargazers_count": 33082,
+    "open_issues_count": 156,
     "forks_count": 6844
   },
   {
     "full_name": "greenheartgames/greenworks",
-    "stargazers_count": 1333,
+    "stargazers_count": 1335,
     "open_issues_count": 58,
     "forks_count": 147
   },
   {
     "full_name": "Kr328/ClashForAndroid",
-    "stargazers_count": 17415,
-    "open_issues_count": 94,
-    "forks_count": 2100
+    "stargazers_count": 17537,
+    "open_issues_count": 95,
+    "forks_count": 2110
   },
   {
     "full_name": "RustCrypto/crypto-bigint",
-    "stargazers_count": 80,
+    "stargazers_count": 81,
     "open_issues_count": 10,
     "forks_count": 16
-  },
-  {
-    "full_name": "gnif/vendor-reset",
-    "stargazers_count": 537,
-    "open_issues_count": 24,
-    "forks_count": 39
-  },
-  {
-    "full_name": "benjojo/alertmanager-discord",
-    "stargazers_count": 133,
-    "open_issues_count": 10,
-    "forks_count": 72
   }
 ]
