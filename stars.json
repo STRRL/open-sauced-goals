@@ -1,7 +1,7 @@
 [
   {
     "full_name": "Cysharp/UniTask",
-    "stargazers_count": 4439,
+    "stargazers_count": 4440,
     "open_issues_count": 11,
     "forks_count": 462
   },
@@ -37,19 +37,19 @@
   },
   {
     "full_name": "MetaMask/metamask-extension",
-    "stargazers_count": 9087,
+    "stargazers_count": 9088,
     "open_issues_count": 1653,
     "forks_count": 3545
   },
   {
     "full_name": "facebook/sapling",
-    "stargazers_count": 4198,
-    "open_issues_count": 69,
+    "stargazers_count": 4205,
+    "open_issues_count": 66,
     "forks_count": 157
   },
   {
     "full_name": "anymaniax/orval",
-    "stargazers_count": 991,
+    "stargazers_count": 992,
     "open_issues_count": 81,
     "forks_count": 122
   },
@@ -79,26 +79,26 @@
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 12579,
+    "stargazers_count": 12581,
     "open_issues_count": 170,
     "forks_count": 1529
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 31443,
+    "stargazers_count": 31445,
     "open_issues_count": 28,
     "forks_count": 1947
   },
   {
     "full_name": "emilk/egui",
-    "stargazers_count": 12093,
+    "stargazers_count": 12102,
     "open_issues_count": 314,
-    "forks_count": 832
+    "forks_count": 833
   },
   {
     "full_name": "bevyengine/bevy",
     "stargazers_count": 20671,
-    "open_issues_count": 1349,
+    "open_issues_count": 1352,
     "forks_count": 2036
   },
   {
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 9010,
+    "stargazers_count": 9011,
     "open_issues_count": 15,
     "forks_count": 1055
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 15598,
+    "stargazers_count": 15599,
     "open_issues_count": 104,
     "forks_count": 748
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "opencost/opencost",
-    "stargazers_count": 3067,
+    "stargazers_count": 3068,
     "open_issues_count": 132,
     "forks_count": 310
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "concourse/concourse",
-    "stargazers_count": 6677,
+    "stargazers_count": 6678,
     "open_issues_count": 869,
     "forks_count": 829
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 640,
-    "open_issues_count": 28,
+    "stargazers_count": 644,
+    "open_issues_count": 29,
     "forks_count": 32
   }
 ]
