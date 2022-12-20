@@ -1,56 +1,56 @@
 [
   {
     "full_name": "keptn/keptn",
-    "stargazers_count": 1589,
-    "open_issues_count": 178,
+    "stargazers_count": 1596,
+    "open_issues_count": 177,
     "forks_count": 238
   },
   {
     "full_name": "kubewharf/kubebrain",
-    "stargazers_count": 492,
+    "stargazers_count": 500,
     "open_issues_count": 4,
     "forks_count": 46
   },
   {
     "full_name": "defenseunicorns/zarf",
-    "stargazers_count": 444,
-    "open_issues_count": 120,
+    "stargazers_count": 447,
+    "open_issues_count": 121,
     "forks_count": 67
   },
   {
     "full_name": "Rigellute/spotify-tui",
-    "stargazers_count": 13922,
-    "open_issues_count": 252,
-    "forks_count": 437
+    "stargazers_count": 13966,
+    "open_issues_count": 251,
+    "forks_count": 439
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 5822,
+    "stargazers_count": 5829,
     "open_issues_count": 109,
-    "forks_count": 316
+    "forks_count": 317
   },
   {
     "full_name": "kubernetes-sigs/controller-runtime",
-    "stargazers_count": 1778,
-    "open_issues_count": 110,
-    "forks_count": 891
+    "stargazers_count": 1782,
+    "open_issues_count": 108,
+    "forks_count": 894
   },
   {
     "full_name": "chaos-mesh/chaos-mesh",
-    "stargazers_count": 5386,
+    "stargazers_count": 5391,
     "open_issues_count": 299,
     "forks_count": 680
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 94467,
-    "open_issues_count": 2391,
-    "forks_count": 34650
+    "stargazers_count": 94534,
+    "open_issues_count": 2368,
+    "forks_count": 34679
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 820,
+    "stargazers_count": 821,
     "open_issues_count": 9,
-    "forks_count": 462
+    "forks_count": 467
   }
 ]
