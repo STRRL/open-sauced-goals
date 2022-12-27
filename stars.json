@@ -1,7 +1,7 @@
 [
   {
     "full_name": "daoleno/uniswapv3-sdk",
-    "stargazers_count": 117,
+    "stargazers_count": 118,
     "open_issues_count": 2,
     "forks_count": 34
   },
@@ -13,32 +13,32 @@
   },
   {
     "full_name": "fuergaosi233/wechat-chatgpt",
-    "stargazers_count": 4719,
-    "open_issues_count": 138,
-    "forks_count": 1014
+    "stargazers_count": 4808,
+    "open_issues_count": 153,
+    "forks_count": 1051
   },
   {
     "full_name": "Cysharp/UniTask",
-    "stargazers_count": 4521,
-    "open_issues_count": 12,
-    "forks_count": 469
+    "stargazers_count": 4529,
+    "open_issues_count": 14,
+    "forks_count": 472
   },
   {
     "full_name": "facebookexperimental/hermit",
-    "stargazers_count": 384,
+    "stargazers_count": 386,
     "open_issues_count": 15,
     "forks_count": 14
   },
   {
     "full_name": "FixTweet/FixTweet",
-    "stargazers_count": 411,
+    "stargazers_count": 417,
     "open_issues_count": 15,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "securego/gosec",
-    "stargazers_count": 6465,
-    "open_issues_count": 29,
+    "stargazers_count": 6470,
+    "open_issues_count": 30,
     "forks_count": 507
   },
   {
@@ -49,32 +49,32 @@
   },
   {
     "full_name": "dylanpdx/BetterTwitFix",
-    "stargazers_count": 331,
-    "open_issues_count": 5,
+    "stargazers_count": 339,
+    "open_issues_count": 4,
     "forks_count": 20
   },
   {
     "full_name": "MetaMask/metamask-extension",
-    "stargazers_count": 9173,
-    "open_issues_count": 1655,
-    "forks_count": 3599
+    "stargazers_count": 9198,
+    "open_issues_count": 1661,
+    "forks_count": 3602
   },
   {
     "full_name": "facebook/sapling",
-    "stargazers_count": 4424,
-    "open_issues_count": 70,
-    "forks_count": 164
+    "stargazers_count": 4439,
+    "open_issues_count": 80,
+    "forks_count": 166
   },
   {
     "full_name": "anymaniax/orval",
-    "stargazers_count": 1024,
-    "open_issues_count": 82,
+    "stargazers_count": 1028,
+    "open_issues_count": 83,
     "forks_count": 129
   },
   {
     "full_name": "ent/ent",
-    "stargazers_count": 12615,
-    "open_issues_count": 277,
+    "stargazers_count": 12622,
+    "open_issues_count": 273,
     "forks_count": 734
   },
   {
@@ -85,39 +85,39 @@
   },
   {
     "full_name": "artginzburg/sudo-touchid",
-    "stargazers_count": 255,
+    "stargazers_count": 258,
     "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "hfg-gmuend/openmoji",
-    "stargazers_count": 2553,
+    "stargazers_count": 2557,
     "open_issues_count": 38,
-    "forks_count": 167
+    "forks_count": 166
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 13050,
-    "open_issues_count": 182,
-    "forks_count": 1583
+    "stargazers_count": 13149,
+    "open_issues_count": 176,
+    "forks_count": 1593
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 31720,
-    "open_issues_count": 34,
-    "forks_count": 1976
+    "stargazers_count": 31896,
+    "open_issues_count": 59,
+    "forks_count": 1984
   },
   {
     "full_name": "emilk/egui",
-    "stargazers_count": 12421,
-    "open_issues_count": 335,
-    "forks_count": 859
+    "stargazers_count": 12483,
+    "open_issues_count": 338,
+    "forks_count": 870
   },
   {
     "full_name": "bevyengine/bevy",
-    "stargazers_count": 20940,
-    "open_issues_count": 1343,
-    "forks_count": 2067
+    "stargazers_count": 20968,
+    "open_issues_count": 1332,
+    "forks_count": 2072
   },
   {
     "full_name": "snok/container-retention-policy",
@@ -128,31 +128,31 @@
   {
     "full_name": "kubernetes-sigs/bom",
     "stargazers_count": 169,
-    "open_issues_count": 17,
+    "open_issues_count": 19,
     "forks_count": 25
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 9144,
-    "open_issues_count": 12,
-    "forks_count": 1081
+    "stargazers_count": 9161,
+    "open_issues_count": 13,
+    "forks_count": 1089
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 15713,
-    "open_issues_count": 95,
-    "forks_count": 753
+    "stargazers_count": 15730,
+    "open_issues_count": 94,
+    "forks_count": 754
   },
   {
     "full_name": "gschup/ggrs",
-    "stargazers_count": 277,
+    "stargazers_count": 278,
     "open_issues_count": 5,
     "forks_count": 12
   },
   {
     "full_name": "deepnight/ldtk",
-    "stargazers_count": 2261,
-    "open_issues_count": 180,
+    "stargazers_count": 2267,
+    "open_issues_count": 170,
     "forks_count": 128
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "opencost/opencost",
-    "stargazers_count": 3142,
-    "open_issues_count": 131,
+    "stargazers_count": 3151,
+    "open_issues_count": 133,
     "forks_count": 326
   },
   {
     "full_name": "BrunoLevy/learn-fpga",
-    "stargazers_count": 1345,
-    "open_issues_count": 42,
-    "forks_count": 134
+    "stargazers_count": 1352,
+    "open_issues_count": 43,
+    "forks_count": 136
   },
   {
     "full_name": "concourse/concourse",
-    "stargazers_count": 6704,
+    "stargazers_count": 6710,
     "open_issues_count": 874,
-    "forks_count": 827
+    "forks_count": 828
   }
 ]
