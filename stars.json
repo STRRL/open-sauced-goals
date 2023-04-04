@@ -7,33 +7,33 @@
   },
   {
     "full_name": "starkware-libs/cairo",
-    "stargazers_count": 739,
-    "open_issues_count": 31,
-    "forks_count": 131
+    "stargazers_count": 775,
+    "open_issues_count": 41,
+    "forks_count": 147
   },
   {
     "full_name": "hypertrons/hypertrons-crx",
-    "stargazers_count": 219,
-    "open_issues_count": 28,
+    "stargazers_count": 223,
+    "open_issues_count": 29,
     "forks_count": 48
   },
   {
     "full_name": "oshai/kotlin-logging",
-    "stargazers_count": 2100,
-    "open_issues_count": 13,
+    "stargazers_count": 2102,
+    "open_issues_count": 10,
     "forks_count": 91
   },
   {
     "full_name": "GanymedeNil/document.ai",
-    "stargazers_count": 1846,
+    "stargazers_count": 2161,
     "open_issues_count": 1,
-    "forks_count": 162
+    "forks_count": 192
   },
   {
     "full_name": "ServiceWeaver/weaver",
-    "stargazers_count": 3161,
+    "stargazers_count": 3199,
     "open_issues_count": 19,
-    "forks_count": 130
+    "forks_count": 133
   },
   {
     "full_name": "cncf/sheriff",
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "rocky/remake",
-    "stargazers_count": 677,
+    "stargazers_count": 678,
     "open_issues_count": 27,
     "forks_count": 68
   },
   {
     "full_name": "junegunn/fzf",
-    "stargazers_count": 51240,
-    "open_issues_count": 309,
-    "forks_count": 2169
+    "stargazers_count": 51323,
+    "open_issues_count": 308,
+    "forks_count": 2172
   },
   {
     "full_name": "haphamdev/klg",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "tstack/lnav",
-    "stargazers_count": 5564,
-    "open_issues_count": 283,
+    "stargazers_count": 5568,
+    "open_issues_count": 282,
     "forks_count": 270
   },
   {
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "fuergaosi233/wechat-chatgpt",
-    "stargazers_count": 10559,
-    "open_issues_count": 30,
-    "forks_count": 3137
+    "stargazers_count": 10803,
+    "open_issues_count": 21,
+    "forks_count": 3217
   },
   {
     "full_name": "Cysharp/UniTask",
-    "stargazers_count": 5100,
-    "open_issues_count": 32,
-    "forks_count": 554
+    "stargazers_count": 5130,
+    "open_issues_count": 33,
+    "forks_count": 555
   },
   {
     "full_name": "facebookexperimental/hermit",
@@ -103,51 +103,51 @@
   },
   {
     "full_name": "FixTweet/FixTweet",
-    "stargazers_count": 547,
-    "open_issues_count": 16,
-    "forks_count": 12
+    "stargazers_count": 555,
+    "open_issues_count": 15,
+    "forks_count": 13
   },
   {
     "full_name": "securego/gosec",
-    "stargazers_count": 6693,
+    "stargazers_count": 6720,
     "open_issues_count": 24,
-    "forks_count": 537
+    "forks_count": 541
   },
   {
     "full_name": "MetaMask/core",
-    "stargazers_count": 172,
-    "open_issues_count": 152,
+    "stargazers_count": 171,
+    "open_issues_count": 146,
     "forks_count": 125
   },
   {
     "full_name": "dylanpdx/BetterTwitFix",
-    "stargazers_count": 406,
-    "open_issues_count": 5,
-    "forks_count": 24
+    "stargazers_count": 412,
+    "open_issues_count": 7,
+    "forks_count": 25
   },
   {
     "full_name": "MetaMask/metamask-extension",
-    "stargazers_count": 9578,
-    "open_issues_count": 1876,
-    "forks_count": 3792
+    "stargazers_count": 9601,
+    "open_issues_count": 1875,
+    "forks_count": 3810
   },
   {
     "full_name": "facebook/sapling",
-    "stargazers_count": 4782,
+    "stargazers_count": 4787,
     "open_issues_count": 122,
-    "forks_count": 198
+    "forks_count": 199
   },
   {
     "full_name": "anymaniax/orval",
-    "stargazers_count": 1242,
+    "stargazers_count": 1252,
     "open_issues_count": 109,
     "forks_count": 149
   },
   {
     "full_name": "ent/ent",
-    "stargazers_count": 13238,
-    "open_issues_count": 302,
-    "forks_count": 772
+    "stargazers_count": 13248,
+    "open_issues_count": 303,
+    "forks_count": 777
   },
   {
     "full_name": "self-actuated/actuated",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "artginzburg/sudo-touchid",
-    "stargazers_count": 301,
+    "stargazers_count": 303,
     "open_issues_count": 6,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "hfg-gmuend/openmoji",
-    "stargazers_count": 2628,
+    "stargazers_count": 2632,
     "open_issues_count": 39,
-    "forks_count": 172
+    "forks_count": 171
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 15473,
-    "open_issues_count": 190,
-    "forks_count": 1883
+    "stargazers_count": 15538,
+    "open_issues_count": 194,
+    "forks_count": 1894
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 33804,
-    "open_issues_count": 51,
-    "forks_count": 2164
+    "stargazers_count": 33865,
+    "open_issues_count": 39,
+    "forks_count": 2169
   }
 ]
