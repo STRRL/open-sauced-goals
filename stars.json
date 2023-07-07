@@ -1,39 +1,51 @@
 [
   {
+    "full_name": "kimichen13/beancount-antlr-parser",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "cockpit-project/cockpit",
+    "stargazers_count": 8607,
+    "open_issues_count": 322,
+    "forks_count": 1020
+  },
+  {
     "full_name": "zixiiu/Digital_Life_Server",
-    "stargazers_count": 1740,
-    "open_issues_count": 35,
-    "forks_count": 347
+    "stargazers_count": 1757,
+    "open_issues_count": 38,
+    "forks_count": 350
   },
   {
     "full_name": "traas-stack/chaosmeta",
-    "stargazers_count": 94,
+    "stargazers_count": 93,
     "open_issues_count": 6,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "incu6us/goimports-reviser",
-    "stargazers_count": 363,
+    "stargazers_count": 366,
     "open_issues_count": 13,
     "forks_count": 58
   },
   {
     "full_name": "sparkle-project/Sparkle",
-    "stargazers_count": 6450,
+    "stargazers_count": 6456,
     "open_issues_count": 21,
     "forks_count": 1030
   },
   {
     "full_name": "lablabs/cloudflare-exporter",
-    "stargazers_count": 188,
+    "stargazers_count": 189,
     "open_issues_count": 32,
     "forks_count": 65
   },
   {
     "full_name": "pingcap/ossinsight-lite",
-    "stargazers_count": 330,
-    "open_issues_count": 16,
-    "forks_count": 84
+    "stargazers_count": 337,
+    "open_issues_count": 21,
+    "forks_count": 90
   },
   {
     "full_name": "stratum-mining/stratum",
@@ -43,55 +55,55 @@
   },
   {
     "full_name": "dexidp/dex",
-    "stargazers_count": 8234,
-    "open_issues_count": 398,
-    "forks_count": 1526
+    "stargazers_count": 8242,
+    "open_issues_count": 401,
+    "forks_count": 1527
   },
   {
     "full_name": "adyanth/cloudflare-operator",
-    "stargazers_count": 109,
+    "stargazers_count": 111,
     "open_issues_count": 23,
     "forks_count": 13
   },
   {
     "full_name": "Lothrik/diablo4-build-calc",
     "stargazers_count": 182,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 35
   },
   {
     "full_name": "switchbrew/libnx",
-    "stargazers_count": 1141,
-    "open_issues_count": 4,
+    "stargazers_count": 1142,
+    "open_issues_count": 3,
     "forks_count": 155
   },
   {
     "full_name": "giscus/giscus",
-    "stargazers_count": 5190,
-    "open_issues_count": 50,
+    "stargazers_count": 5221,
+    "open_issues_count": 51,
     "forks_count": 224
   },
   {
     "full_name": "automerge/automerge",
-    "stargazers_count": 1745,
+    "stargazers_count": 1764,
     "open_issues_count": 25,
     "forks_count": 109
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 1600,
+    "stargazers_count": 1619,
     "open_issues_count": 58,
     "forks_count": 109
   },
   {
     "full_name": "toeverything/OctoBase",
-    "stargazers_count": 489,
+    "stargazers_count": 512,
     "open_issues_count": 30,
-    "forks_count": 45
+    "forks_count": 47
   },
   {
     "full_name": "cloudflare/cloudflare-ingress-controller",
-    "stargazers_count": 351,
+    "stargazers_count": 352,
     "open_issues_count": 21,
     "forks_count": 60
   },
@@ -103,32 +115,32 @@
   },
   {
     "full_name": "starkware-libs/cairo",
-    "stargazers_count": 966,
-    "open_issues_count": 123,
-    "forks_count": 255
+    "stargazers_count": 984,
+    "open_issues_count": 122,
+    "forks_count": 259
   },
   {
     "full_name": "hypertrons/hypertrons-crx",
-    "stargazers_count": 261,
-    "open_issues_count": 34,
-    "forks_count": 57
+    "stargazers_count": 262,
+    "open_issues_count": 35,
+    "forks_count": 58
   },
   {
     "full_name": "oshai/kotlin-logging",
-    "stargazers_count": 2185,
+    "stargazers_count": 2189,
     "open_issues_count": 19,
     "forks_count": 95
   },
   {
     "full_name": "GanymedeNil/document.ai",
-    "stargazers_count": 3114,
+    "stargazers_count": 3131,
     "open_issues_count": 1,
-    "forks_count": 278
+    "forks_count": 279
   },
   {
     "full_name": "ServiceWeaver/weaver",
-    "stargazers_count": 3566,
-    "open_issues_count": 25,
+    "stargazers_count": 3580,
+    "open_issues_count": 17,
     "forks_count": 176
   },
   {
@@ -145,15 +157,15 @@
   },
   {
     "full_name": "rocky/remake",
-    "stargazers_count": 713,
-    "open_issues_count": 28,
+    "stargazers_count": 714,
+    "open_issues_count": 29,
     "forks_count": 70
   },
   {
     "full_name": "junegunn/fzf",
-    "stargazers_count": 53019,
-    "open_issues_count": 330,
-    "forks_count": 2200
+    "stargazers_count": 53074,
+    "open_issues_count": 328,
+    "forks_count": 2201
   },
   {
     "full_name": "haphamdev/klg",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "tstack/lnav",
-    "stargazers_count": 5750,
-    "open_issues_count": 260,
-    "forks_count": 275
-  },
-  {
-    "full_name": "daoleno/uniswapv3-sdk",
-    "stargazers_count": 158,
-    "open_issues_count": 3,
-    "forks_count": 113
-  },
-  {
-    "full_name": "olivernybroe/action-conflict-finder",
-    "stargazers_count": 24,
-    "open_issues_count": 0,
-    "forks_count": 9
+    "stargazers_count": 5768,
+    "open_issues_count": 261,
+    "forks_count": 273
   }
 ]
