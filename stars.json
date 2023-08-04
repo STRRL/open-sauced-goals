@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "w-okada/voice-changer",
+    "stargazers_count": 9183,
+    "open_issues_count": 24,
+    "forks_count": 1024
+  },
+  {
     "full_name": "binbat/refine",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -7,27 +13,27 @@
   },
   {
     "full_name": "karpathy/llama2.c",
-    "stargazers_count": 9847,
-    "open_issues_count": 85,
-    "forks_count": 777
+    "stargazers_count": 10228,
+    "open_issues_count": 79,
+    "forks_count": 832
   },
   {
     "full_name": "kube-rs/kube",
-    "stargazers_count": 2256,
+    "stargazers_count": 2262,
     "open_issues_count": 95,
-    "forks_count": 251
+    "forks_count": 252
   },
   {
     "full_name": "Lakr233/RainbowFart",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "tesseract-ocr/tesseract",
-    "stargazers_count": 52410,
+    "stargazers_count": 52484,
     "open_issues_count": 401,
-    "forks_count": 8704
+    "forks_count": 8708
   },
   {
     "full_name": "chinedufn/swift-bridge",
@@ -37,13 +43,13 @@
   },
   {
     "full_name": "PaddlePaddle/PaddleOCR",
-    "stargazers_count": 32145,
-    "open_issues_count": 664,
-    "forks_count": 6528
+    "stargazers_count": 32211,
+    "open_issues_count": 671,
+    "forks_count": 6542
   },
   {
     "full_name": "nashaofu/screenshots-rs",
-    "stargazers_count": 143,
+    "stargazers_count": 145,
     "open_issues_count": 8,
     "forks_count": 28
   },
@@ -61,37 +67,37 @@
   },
   {
     "full_name": "cockpit-project/cockpit",
-    "stargazers_count": 8682,
-    "open_issues_count": 313,
+    "stargazers_count": 8690,
+    "open_issues_count": 312,
     "forks_count": 1020
   },
   {
     "full_name": "zixiiu/Digital_Life_Server",
-    "stargazers_count": 1863,
-    "open_issues_count": 45,
-    "forks_count": 369
+    "stargazers_count": 1876,
+    "open_issues_count": 40,
+    "forks_count": 370
   },
   {
     "full_name": "traas-stack/chaosmeta",
-    "stargazers_count": 96,
-    "open_issues_count": 7,
+    "stargazers_count": 98,
+    "open_issues_count": 8,
     "forks_count": 32
   },
   {
     "full_name": "incu6us/goimports-reviser",
-    "stargazers_count": 380,
+    "stargazers_count": 385,
     "open_issues_count": 13,
     "forks_count": 60
   },
   {
     "full_name": "sparkle-project/Sparkle",
-    "stargazers_count": 6479,
+    "stargazers_count": 6485,
     "open_issues_count": 19,
-    "forks_count": 1029
+    "forks_count": 1030
   },
   {
     "full_name": "lablabs/cloudflare-exporter",
-    "stargazers_count": 193,
+    "stargazers_count": 194,
     "open_issues_count": 34,
     "forks_count": 67
   },
@@ -99,19 +105,19 @@
     "full_name": "pingcap/ossinsight-lite",
     "stargazers_count": 360,
     "open_issues_count": 17,
-    "forks_count": 106
+    "forks_count": 107
   },
   {
     "full_name": "stratum-mining/stratum",
-    "stargazers_count": 107,
-    "open_issues_count": 117,
+    "stargazers_count": 108,
+    "open_issues_count": 115,
     "forks_count": 82
   },
   {
     "full_name": "dexidp/dex",
-    "stargazers_count": 8304,
-    "open_issues_count": 403,
-    "forks_count": 1547
+    "stargazers_count": 8315,
+    "open_issues_count": 382,
+    "forks_count": 1548
   },
   {
     "full_name": "adyanth/cloudflare-operator",
@@ -127,32 +133,32 @@
   },
   {
     "full_name": "switchbrew/libnx",
-    "stargazers_count": 1148,
+    "stargazers_count": 1147,
     "open_issues_count": 3,
     "forks_count": 155
   },
   {
     "full_name": "giscus/giscus",
-    "stargazers_count": 5447,
-    "open_issues_count": 53,
-    "forks_count": 227
+    "stargazers_count": 5471,
+    "open_issues_count": 54,
+    "forks_count": 226
   },
   {
     "full_name": "automerge/automerge",
-    "stargazers_count": 1849,
-    "open_issues_count": 30,
+    "stargazers_count": 1859,
+    "open_issues_count": 29,
     "forks_count": 113
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 1719,
-    "open_issues_count": 57,
-    "forks_count": 117
+    "stargazers_count": 1726,
+    "open_issues_count": 59,
+    "forks_count": 118
   },
   {
     "full_name": "toeverything/OctoBase",
-    "stargazers_count": 660,
-    "open_issues_count": 28,
+    "stargazers_count": 667,
+    "open_issues_count": 27,
     "forks_count": 48
   },
   {
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "starkware-libs/cairo",
-    "stargazers_count": 1014,
-    "open_issues_count": 114,
-    "forks_count": 269
-  },
-  {
-    "full_name": "hypertrons/hypertrons-crx",
-    "stargazers_count": 264,
-    "open_issues_count": 32,
-    "forks_count": 60
+    "stargazers_count": 1017,
+    "open_issues_count": 124,
+    "forks_count": 272
   }
 ]
