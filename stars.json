@@ -1,33 +1,51 @@
 [
   {
+    "full_name": "zeabur/zbpack",
+    "stargazers_count": 145,
+    "open_issues_count": 10,
+    "forks_count": 25
+  },
+  {
+    "full_name": "laixintao/flameshow",
+    "stargazers_count": 345,
+    "open_issues_count": 4,
+    "forks_count": 1
+  },
+  {
+    "full_name": "0x61726b/electron-vibrancy",
+    "stargazers_count": 639,
+    "open_issues_count": 22,
+    "forks_count": 56
+  },
+  {
     "full_name": "zhuowei/VisionOSStereoScreenshots",
-    "stargazers_count": 334,
+    "stargazers_count": 335,
     "open_issues_count": 3,
     "forks_count": 16
   },
   {
     "full_name": "opentofu/opentofu",
-    "stargazers_count": 9430,
-    "open_issues_count": 91,
-    "forks_count": 283
+    "stargazers_count": 12685,
+    "open_issues_count": 106,
+    "forks_count": 397
   },
   {
     "full_name": "raidendotai/openv0",
-    "stargazers_count": 641,
-    "open_issues_count": 9,
-    "forks_count": 51
+    "stargazers_count": 808,
+    "open_issues_count": 12,
+    "forks_count": 72
   },
   {
     "full_name": "devtron-labs/silver-surfer",
-    "stargazers_count": 270,
+    "stargazers_count": 272,
     "open_issues_count": 11,
     "forks_count": 32
   },
   {
     "full_name": "JedWatson/classnames",
-    "stargazers_count": 16940,
+    "stargazers_count": 16947,
     "open_issues_count": 14,
-    "forks_count": 598
+    "forks_count": 599
   },
   {
     "full_name": "binbat/live777",
@@ -37,9 +55,9 @@
   },
   {
     "full_name": "c-bata/go-prompt",
-    "stargazers_count": 5006,
+    "stargazers_count": 5007,
     "open_issues_count": 108,
-    "forks_count": 366
+    "forks_count": 368
   },
   {
     "full_name": "mitchellh/go-wordwrap",
@@ -49,25 +67,25 @@
   },
   {
     "full_name": "Innei/nest-http-prisma-zod",
-    "stargazers_count": 47,
-    "open_issues_count": 2,
+    "stargazers_count": 48,
+    "open_issues_count": 4,
     "forks_count": 0
   },
   {
     "full_name": "y-crdt/y-octo",
-    "stargazers_count": 75,
-    "open_issues_count": 6,
+    "stargazers_count": 76,
+    "open_issues_count": 7,
     "forks_count": 2
   },
   {
     "full_name": "gocrane/crane",
-    "stargazers_count": 1569,
-    "open_issues_count": 108,
+    "stargazers_count": 1572,
+    "open_issues_count": 109,
     "forks_count": 354
   },
   {
     "full_name": "spyglass-search/spyglass",
-    "stargazers_count": 2163,
+    "stargazers_count": 2171,
     "open_issues_count": 28,
     "forks_count": 46
   },
@@ -85,33 +103,33 @@
   },
   {
     "full_name": "Moya/Moya",
-    "stargazers_count": 14746,
-    "open_issues_count": 155,
-    "forks_count": 1963
+    "stargazers_count": 14748,
+    "open_issues_count": 156,
+    "forks_count": 1964
   },
   {
     "full_name": "logto-io/logto",
-    "stargazers_count": 6302,
-    "open_issues_count": 93,
+    "stargazers_count": 6306,
+    "open_issues_count": 88,
     "forks_count": 257
   },
   {
     "full_name": "LizardByte/Sunshine",
-    "stargazers_count": 6809,
-    "open_issues_count": 86,
-    "forks_count": 333
+    "stargazers_count": 6872,
+    "open_issues_count": 90,
+    "forks_count": 337
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 59888,
-    "open_issues_count": 378,
-    "forks_count": 12160
+    "stargazers_count": 59899,
+    "open_issues_count": 377,
+    "forks_count": 12159
   },
   {
     "full_name": "qdrant/qdrant",
-    "stargazers_count": 12931,
-    "open_issues_count": 175,
-    "forks_count": 727
+    "stargazers_count": 12986,
+    "open_issues_count": 166,
+    "forks_count": 730
   },
   {
     "full_name": "labring/sealfs",
@@ -121,33 +139,33 @@
   },
   {
     "full_name": "thomasgruebl/rusty-tesseract",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 2,
     "forks_count": 9
   },
   {
     "full_name": "teloxide/teloxide",
-    "stargazers_count": 2162,
+    "stargazers_count": 2177,
     "open_issues_count": 49,
-    "forks_count": 157
+    "forks_count": 158
   },
   {
     "full_name": "discordjs/discord.js",
-    "stargazers_count": 23935,
-    "open_issues_count": 147,
-    "forks_count": 4003
+    "stargazers_count": 23942,
+    "open_issues_count": 149,
+    "forks_count": 4005
   },
   {
     "full_name": "telegraf/telegraf",
-    "stargazers_count": 7040,
+    "stargazers_count": 7047,
     "open_issues_count": 21,
     "forks_count": 880
   },
   {
     "full_name": "w-okada/voice-changer",
-    "stargazers_count": 11228,
-    "open_issues_count": 36,
-    "forks_count": 1254
+    "stargazers_count": 11336,
+    "open_issues_count": 37,
+    "forks_count": 1275
   },
   {
     "full_name": "binbat/refine",
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "karpathy/llama2.c",
-    "stargazers_count": 12037,
-    "open_issues_count": 97,
+    "stargazers_count": 12094,
+    "open_issues_count": 100,
     "forks_count": 1144
-  },
-  {
-    "full_name": "kube-rs/kube",
-    "stargazers_count": 2346,
-    "open_issues_count": 84,
-    "forks_count": 255
-  },
-  {
-    "full_name": "Lakr233/RainbowFart",
-    "stargazers_count": 73,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "tesseract-ocr/tesseract",
-    "stargazers_count": 53430,
-    "open_issues_count": 410,
-    "forks_count": 8771
   }
 ]
