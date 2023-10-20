@@ -7,15 +7,15 @@
   },
   {
     "full_name": "tldr-pages/tldr",
-    "stargazers_count": 46041,
-    "open_issues_count": 213,
-    "forks_count": 3821
+    "stargazers_count": 46079,
+    "open_issues_count": 224,
+    "forks_count": 3835
   },
   {
     "full_name": "microsoft/autogen",
-    "stargazers_count": 11049,
-    "open_issues_count": 96,
-    "forks_count": 1100
+    "stargazers_count": 12681,
+    "open_issues_count": 108,
+    "forks_count": 1261
   },
   {
     "full_name": "lucidrains/musiclm-pytorch",
@@ -37,67 +37,67 @@
   },
   {
     "full_name": "JetBrains/compose-multiplatform",
-    "stargazers_count": 13550,
-    "open_issues_count": 1120,
-    "forks_count": 1001
+    "stargazers_count": 13579,
+    "open_issues_count": 1126,
+    "forks_count": 1004
   },
   {
     "full_name": "supabase/gotrue",
-    "stargazers_count": 857,
-    "open_issues_count": 76,
-    "forks_count": 269
+    "stargazers_count": 865,
+    "open_issues_count": 73,
+    "forks_count": 270
   },
   {
     "full_name": "ggerganov/llama.cpp",
-    "stargazers_count": 42385,
-    "open_issues_count": 643,
-    "forks_count": 5961
+    "stargazers_count": 42567,
+    "open_issues_count": 637,
+    "forks_count": 5993
   },
   {
     "full_name": "scottbez1/smartknob",
-    "stargazers_count": 15625,
+    "stargazers_count": 15661,
     "open_issues_count": 47,
-    "forks_count": 900
+    "forks_count": 904
   },
   {
     "full_name": "wg/wrk",
-    "stargazers_count": 35535,
-    "open_issues_count": 188,
-    "forks_count": 2857
+    "stargazers_count": 35586,
+    "open_issues_count": 189,
+    "forks_count": 2859
   },
   {
     "full_name": "lf-edge/ekuiper",
-    "stargazers_count": 1176,
-    "open_issues_count": 47,
-    "forks_count": 326
+    "stargazers_count": 1178,
+    "open_issues_count": 51,
+    "forks_count": 328
   },
   {
     "full_name": "emqx/nanomq",
-    "stargazers_count": 1088,
-    "open_issues_count": 49,
-    "forks_count": 129
+    "stargazers_count": 1093,
+    "open_issues_count": 50,
+    "forks_count": 130
   },
   {
     "full_name": "macOScontainers/rund",
-    "stargazers_count": 302,
+    "stargazers_count": 316,
     "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "zeabur/zbpack",
-    "stargazers_count": 146,
-    "open_issues_count": 10,
-    "forks_count": 25
+    "stargazers_count": 149,
+    "open_issues_count": 11,
+    "forks_count": 27
   },
   {
     "full_name": "laixintao/flameshow",
-    "stargazers_count": 626,
+    "stargazers_count": 631,
     "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "0x61726b/electron-vibrancy",
-    "stargazers_count": 639,
+    "stargazers_count": 640,
     "open_issues_count": 22,
     "forks_count": 56
   },
@@ -109,39 +109,39 @@
   },
   {
     "full_name": "opentofu/opentofu",
-    "stargazers_count": 14677,
+    "stargazers_count": 14895,
     "open_issues_count": 141,
-    "forks_count": 489
+    "forks_count": 500
   },
   {
     "full_name": "raidendotai/openv0",
-    "stargazers_count": 1838,
-    "open_issues_count": 21,
-    "forks_count": 146
+    "stargazers_count": 1887,
+    "open_issues_count": 22,
+    "forks_count": 148
   },
   {
     "full_name": "devtron-labs/silver-surfer",
-    "stargazers_count": 278,
+    "stargazers_count": 279,
     "open_issues_count": 11,
     "forks_count": 32
   },
   {
     "full_name": "JedWatson/classnames",
-    "stargazers_count": 16984,
+    "stargazers_count": 16989,
     "open_issues_count": 14,
     "forks_count": 605
   },
   {
     "full_name": "binbat/live777",
-    "stargazers_count": 140,
-    "open_issues_count": 8,
-    "forks_count": 10
+    "stargazers_count": 142,
+    "open_issues_count": 9,
+    "forks_count": 11
   },
   {
     "full_name": "c-bata/go-prompt",
-    "stargazers_count": 5028,
+    "stargazers_count": 5032,
     "open_issues_count": 108,
-    "forks_count": 378
+    "forks_count": 379
   },
   {
     "full_name": "mitchellh/go-wordwrap",
@@ -152,30 +152,30 @@
   {
     "full_name": "Innei/nest-http-prisma-zod",
     "stargazers_count": 55,
-    "open_issues_count": 9,
+    "open_issues_count": 15,
     "forks_count": 1
   },
   {
     "full_name": "y-crdt/y-octo",
-    "stargazers_count": 81,
+    "stargazers_count": 82,
     "open_issues_count": 6,
     "forks_count": 2
   },
   {
     "full_name": "gocrane/crane",
-    "stargazers_count": 1590,
+    "stargazers_count": 1596,
     "open_issues_count": 112,
     "forks_count": 355
   },
   {
     "full_name": "spyglass-search/spyglass",
-    "stargazers_count": 2202,
-    "open_issues_count": 31,
+    "stargazers_count": 2203,
+    "open_issues_count": 33,
     "forks_count": 45
   },
   {
     "full_name": "StarkShang/vite-plugin-chrome-extension",
-    "stargazers_count": 437,
+    "stargazers_count": 438,
     "open_issues_count": 28,
     "forks_count": 66
   }
