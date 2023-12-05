@@ -1,67 +1,85 @@
 [
   {
+    "full_name": "lobehub/lobe-chat",
+    "stargazers_count": 4152,
+    "open_issues_count": 55,
+    "forks_count": 767
+  },
+  {
+    "full_name": "OthersideAI/self-operating-computer",
+    "stargazers_count": 4695,
+    "open_issues_count": 36,
+    "forks_count": 733
+  },
+  {
+    "full_name": "goproxy/goproxy.cn",
+    "stargazers_count": 6575,
+    "open_issues_count": 6,
+    "forks_count": 430
+  },
+  {
     "full_name": "neurocult/agency",
-    "stargazers_count": 249,
-    "open_issues_count": 0,
-    "forks_count": 9
+    "stargazers_count": 271,
+    "open_issues_count": 1,
+    "forks_count": 10
   },
   {
     "full_name": "VictoriaMetrics/metricsql",
-    "stargazers_count": 163,
+    "stargazers_count": 164,
     "open_issues_count": 4,
     "forks_count": 26
   },
   {
     "full_name": "nakabonne/tstorage",
-    "stargazers_count": 993,
+    "stargazers_count": 997,
     "open_issues_count": 16,
     "forks_count": 79
   },
   {
     "full_name": "cilium/little-vm-helper",
     "stargazers_count": 40,
-    "open_issues_count": 11,
+    "open_issues_count": 8,
     "forks_count": 11
   },
   {
     "full_name": "eunomia-bpf/bpftime",
-    "stargazers_count": 401,
-    "open_issues_count": 13,
-    "forks_count": 17
+    "stargazers_count": 402,
+    "open_issues_count": 16,
+    "forks_count": 19
   },
   {
     "full_name": "songquanpeng/one-api",
-    "stargazers_count": 6287,
-    "open_issues_count": 230,
-    "forks_count": 1533
+    "stargazers_count": 6424,
+    "open_issues_count": 234,
+    "forks_count": 1569
   },
   {
     "full_name": "kubeagi/arcadia",
     "stargazers_count": 12,
-    "open_issues_count": 29,
+    "open_issues_count": 31,
     "forks_count": 11
   },
   {
     "full_name": "GuillaumeGomez/sysinfo",
-    "stargazers_count": 1584,
-    "open_issues_count": 48,
+    "stargazers_count": 1592,
+    "open_issues_count": 49,
     "forks_count": 246
   },
   {
     "full_name": "ttc0419/uuplugin",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "cloudflare/workerd",
-    "stargazers_count": 5151,
-    "open_issues_count": 145,
-    "forks_count": 214
+    "stargazers_count": 5158,
+    "open_issues_count": 144,
+    "forks_count": 216
   },
   {
     "full_name": "fzf404/Monit",
-    "stargazers_count": 723,
+    "stargazers_count": 724,
     "open_issues_count": 7,
     "forks_count": 44
   },
@@ -73,19 +91,19 @@
   },
   {
     "full_name": "zilliztech/attu",
-    "stargazers_count": 605,
+    "stargazers_count": 612,
     "open_issues_count": 42,
-    "forks_count": 77
+    "forks_count": 76
   },
   {
     "full_name": "quickwit-oss/tantivy",
-    "stargazers_count": 9016,
-    "open_issues_count": 283,
+    "stargazers_count": 9029,
+    "open_issues_count": 279,
     "forks_count": 539
   },
   {
     "full_name": "podtato-head/podtato-head",
-    "stargazers_count": 333,
+    "stargazers_count": 335,
     "open_issues_count": 37,
     "forks_count": 162
   },
@@ -97,9 +115,9 @@
   },
   {
     "full_name": "li-plus/chatglm.cpp",
-    "stargazers_count": 1784,
-    "open_issues_count": 84,
-    "forks_count": 291
+    "stargazers_count": 1811,
+    "open_issues_count": 88,
+    "forks_count": 294
   },
   {
     "full_name": "Limit-LAB/r18",
@@ -109,74 +127,56 @@
   },
   {
     "full_name": "aptabase/aptabase",
-    "stargazers_count": 347,
+    "stargazers_count": 349,
     "open_issues_count": 15,
     "forks_count": 16
   },
   {
     "full_name": "ggerganov/whisper.cpp",
-    "stargazers_count": 25819,
-    "open_issues_count": 404,
-    "forks_count": 2458
+    "stargazers_count": 25961,
+    "open_issues_count": 408,
+    "forks_count": 2473
   },
   {
     "full_name": "supabase-community/gotrue-go",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "tldr-pages/tldr",
-    "stargazers_count": 46547,
-    "open_issues_count": 151,
-    "forks_count": 3899
+    "stargazers_count": 46584,
+    "open_issues_count": 153,
+    "forks_count": 3904
   },
   {
     "full_name": "microsoft/autogen",
-    "stargazers_count": 17361,
-    "open_issues_count": 286,
-    "forks_count": 2046
+    "stargazers_count": 17653,
+    "open_issues_count": 288,
+    "forks_count": 2098
   },
   {
     "full_name": "lucidrains/musiclm-pytorch",
-    "stargazers_count": 2802,
+    "stargazers_count": 2808,
     "open_issues_count": 21,
     "forks_count": 231
   },
   {
     "full_name": "armintum/MusicLM",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "davechurchill/commandcenter",
-    "stargazers_count": 502,
+    "stargazers_count": 503,
     "open_issues_count": 18,
     "forks_count": 112
   },
   {
     "full_name": "JetBrains/compose-multiplatform",
-    "stargazers_count": 13872,
-    "open_issues_count": 1171,
-    "forks_count": 1019
-  },
-  {
-    "full_name": "supabase/gotrue",
-    "stargazers_count": 917,
-    "open_issues_count": 74,
-    "forks_count": 282
-  },
-  {
-    "full_name": "ggerganov/llama.cpp",
-    "stargazers_count": 45263,
-    "open_issues_count": 784,
-    "forks_count": 6435
-  },
-  {
-    "full_name": "scottbez1/smartknob",
-    "stargazers_count": 16416,
-    "open_issues_count": 52,
-    "forks_count": 947
+    "stargazers_count": 13896,
+    "open_issues_count": 1173,
+    "forks_count": 1020
   }
 ]
