@@ -1,21 +1,33 @@
 [
   {
+    "full_name": "lxfater/inpaint-web",
+    "stargazers_count": 1891,
+    "open_issues_count": 4,
+    "forks_count": 178
+  },
+  {
+    "full_name": "yoav-lavi/melody",
+    "stargazers_count": 4571,
+    "open_issues_count": 8,
+    "forks_count": 55
+  },
+  {
     "full_name": "QiuSimons/luci-app-daed",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "daeuniverse/dae",
-    "stargazers_count": 1434,
-    "open_issues_count": 27,
-    "forks_count": 104
+    "stargazers_count": 1498,
+    "open_issues_count": 30,
+    "forks_count": 107
   },
   {
     "full_name": "microsoft/fluentui-emoji",
-    "stargazers_count": 8390,
-    "open_issues_count": 73,
-    "forks_count": 461
+    "stargazers_count": 8397,
+    "open_issues_count": 74,
+    "forks_count": 465
   },
   {
     "full_name": "dkorunic/iSMC",
@@ -25,9 +37,9 @@
   },
   {
     "full_name": "palantir/palantir-java-format",
-    "stargazers_count": 315,
-    "open_issues_count": 68,
-    "forks_count": 39
+    "stargazers_count": 321,
+    "open_issues_count": 67,
+    "forks_count": 40
   },
   {
     "full_name": "vmware-labs/client-library-for-chaos-mesh",
@@ -37,51 +49,51 @@
   },
   {
     "full_name": "wailsapp/wails",
-    "stargazers_count": 19684,
-    "open_issues_count": 225,
-    "forks_count": 995
+    "stargazers_count": 19762,
+    "open_issues_count": 218,
+    "forks_count": 998
   },
   {
     "full_name": "gorilla/websocket",
-    "stargazers_count": 20375,
+    "stargazers_count": 20405,
     "open_issues_count": 56,
-    "forks_count": 3469
+    "forks_count": 3473
   },
   {
     "full_name": "ml-explore/mlx",
-    "stargazers_count": 9238,
-    "open_issues_count": 53,
-    "forks_count": 519
+    "stargazers_count": 9748,
+    "open_issues_count": 59,
+    "forks_count": 554
   },
   {
     "full_name": "laixintao/mactop",
-    "stargazers_count": 120,
+    "stargazers_count": 121,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "lobehub/lobe-chat",
-    "stargazers_count": 8898,
-    "open_issues_count": 77,
-    "forks_count": 1299
+    "stargazers_count": 12063,
+    "open_issues_count": 91,
+    "forks_count": 1787
   },
   {
     "full_name": "OthersideAI/self-operating-computer",
-    "stargazers_count": 5290,
-    "open_issues_count": 34,
-    "forks_count": 813
+    "stargazers_count": 5392,
+    "open_issues_count": 37,
+    "forks_count": 835
   },
   {
     "full_name": "goproxy/goproxy.cn",
-    "stargazers_count": 6586,
-    "open_issues_count": 7,
+    "stargazers_count": 6587,
+    "open_issues_count": 8,
     "forks_count": 431
   },
   {
     "full_name": "neurocult/agency",
-    "stargazers_count": 299,
+    "stargazers_count": 305,
     "open_issues_count": 1,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "VictoriaMetrics/metricsql",
@@ -91,7 +103,7 @@
   },
   {
     "full_name": "nakabonne/tstorage",
-    "stargazers_count": 1001,
+    "stargazers_count": 1002,
     "open_issues_count": 16,
     "forks_count": 79
   },
@@ -103,27 +115,27 @@
   },
   {
     "full_name": "eunomia-bpf/bpftime",
-    "stargazers_count": 419,
-    "open_issues_count": 18,
-    "forks_count": 20
+    "stargazers_count": 421,
+    "open_issues_count": 16,
+    "forks_count": 21
   },
   {
     "full_name": "songquanpeng/one-api",
-    "stargazers_count": 6991,
+    "stargazers_count": 7177,
     "open_issues_count": 261,
-    "forks_count": 1726
+    "forks_count": 1798
   },
   {
     "full_name": "kubeagi/arcadia",
     "stargazers_count": 13,
-    "open_issues_count": 23,
+    "open_issues_count": 26,
     "forks_count": 12
   },
   {
     "full_name": "GuillaumeGomez/sysinfo",
-    "stargazers_count": 1609,
-    "open_issues_count": 49,
-    "forks_count": 248
+    "stargazers_count": 1614,
+    "open_issues_count": 48,
+    "forks_count": 249
   },
   {
     "full_name": "ttc0419/uuplugin",
@@ -133,50 +145,38 @@
   },
   {
     "full_name": "cloudflare/workerd",
-    "stargazers_count": 5172,
-    "open_issues_count": 140,
+    "stargazers_count": 5178,
+    "open_issues_count": 138,
     "forks_count": 219
   },
   {
     "full_name": "fzf404/Monit",
-    "stargazers_count": 726,
-    "open_issues_count": 8,
+    "stargazers_count": 727,
+    "open_issues_count": 9,
     "forks_count": 45
   },
   {
     "full_name": "form3tech-oss/chaos-mesh",
     "stargazers_count": 1,
-    "open_issues_count": 14,
+    "open_issues_count": 10,
     "forks_count": 0
   },
   {
     "full_name": "zilliztech/attu",
-    "stargazers_count": 625,
-    "open_issues_count": 38,
+    "stargazers_count": 633,
+    "open_issues_count": 39,
     "forks_count": 76
   },
   {
     "full_name": "quickwit-oss/tantivy",
-    "stargazers_count": 9062,
-    "open_issues_count": 284,
-    "forks_count": 540
+    "stargazers_count": 9082,
+    "open_issues_count": 285,
+    "forks_count": 541
   },
   {
     "full_name": "podtato-head/podtato-head",
     "stargazers_count": 336,
     "open_issues_count": 37,
     "forks_count": 164
-  },
-  {
-    "full_name": "sunny0826/go-chatglm",
-    "stargazers_count": 4,
-    "open_issues_count": 4,
-    "forks_count": 0
-  },
-  {
-    "full_name": "li-plus/chatglm.cpp",
-    "stargazers_count": 1916,
-    "open_issues_count": 99,
-    "forks_count": 302
   }
 ]
