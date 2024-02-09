@@ -1,57 +1,69 @@
 [
   {
+    "full_name": "vercel/hazel",
+    "stargazers_count": 2851,
+    "open_issues_count": 57,
+    "forks_count": 359
+  },
+  {
+    "full_name": "ejoy/vaststars",
+    "stargazers_count": 271,
+    "open_issues_count": 0,
+    "forks_count": 32
+  },
+  {
     "full_name": "Whisky-App/Whisky",
-    "stargazers_count": 8671,
-    "open_issues_count": 146,
-    "forks_count": 226
+    "stargazers_count": 8735,
+    "open_issues_count": 149,
+    "forks_count": 228
   },
   {
     "full_name": "tyxsspa/AnyText",
-    "stargazers_count": 3235,
-    "open_issues_count": 50,
+    "stargazers_count": 3263,
+    "open_issues_count": 51,
     "forks_count": 206
   },
   {
     "full_name": "pi0/tired-maintainer",
-    "stargazers_count": 260,
+    "stargazers_count": 263,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "zed-industries/zed",
-    "stargazers_count": 19264,
-    "open_issues_count": 1331,
-    "forks_count": 627
+    "stargazers_count": 20149,
+    "open_issues_count": 1369,
+    "forks_count": 673
   },
   {
     "full_name": "shopspring/decimal",
-    "stargazers_count": 5662,
-    "open_issues_count": 113,
-    "forks_count": 618
+    "stargazers_count": 5666,
+    "open_issues_count": 112,
+    "forks_count": 619
   },
   {
     "full_name": "volta-cli/volta",
-    "stargazers_count": 9466,
-    "open_issues_count": 257,
-    "forks_count": 214
+    "stargazers_count": 9478,
+    "open_issues_count": 256,
+    "forks_count": 216
   },
   {
     "full_name": "spotify/basic-pitch",
-    "stargazers_count": 2714,
-    "open_issues_count": 28,
-    "forks_count": 192
+    "stargazers_count": 2725,
+    "open_issues_count": 27,
+    "forks_count": 190
   },
   {
     "full_name": "VictoriaMetrics/easyproto",
-    "stargazers_count": 94,
+    "stargazers_count": 95,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "maybe-finance/maybe",
-    "stargazers_count": 16569,
-    "open_issues_count": 13,
-    "forks_count": 1153
+    "stargazers_count": 21186,
+    "open_issues_count": 15,
+    "forks_count": 1557
   },
   {
     "full_name": "aldanor/reactive-rs",
@@ -61,9 +73,9 @@
   },
   {
     "full_name": "janhq/jan",
-    "stargazers_count": 8893,
-    "open_issues_count": 178,
-    "forks_count": 460
+    "stargazers_count": 9059,
+    "open_issues_count": 184,
+    "forks_count": 466
   },
   {
     "full_name": "Limit-LAB/go-gemini",
@@ -85,7 +97,7 @@
   },
   {
     "full_name": "ArekSredzki/electron-release-server",
-    "stargazers_count": 1984,
+    "stargazers_count": 1986,
     "open_issues_count": 58,
     "forks_count": 544
   },
@@ -97,14 +109,14 @@
   },
   {
     "full_name": "Lessica/Reveil",
-    "stargazers_count": 311,
+    "stargazers_count": 316,
     "open_issues_count": 1,
     "forks_count": 18
   },
   {
     "full_name": "gefyrahq/gefyra",
-    "stargazers_count": 602,
-    "open_issues_count": 52,
+    "stargazers_count": 603,
+    "open_issues_count": 48,
     "forks_count": 27
   },
   {
@@ -115,43 +127,43 @@
   },
   {
     "full_name": "lxfater/inpaint-web",
-    "stargazers_count": 2963,
+    "stargazers_count": 2972,
     "open_issues_count": 7,
     "forks_count": 275
   },
   {
     "full_name": "yoav-lavi/melody",
-    "stargazers_count": 4576,
+    "stargazers_count": 4575,
     "open_issues_count": 8,
     "forks_count": 55
   },
   {
     "full_name": "QiuSimons/luci-app-daed",
-    "stargazers_count": 41,
+    "stargazers_count": 42,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "daeuniverse/dae",
-    "stargazers_count": 1986,
-    "open_issues_count": 36,
-    "forks_count": 128
+    "stargazers_count": 1997,
+    "open_issues_count": 37,
+    "forks_count": 126
   },
   {
     "full_name": "microsoft/fluentui-emoji",
-    "stargazers_count": 8507,
+    "stargazers_count": 8518,
     "open_issues_count": 78,
-    "forks_count": 470
+    "forks_count": 468
   },
   {
     "full_name": "dkorunic/iSMC",
-    "stargazers_count": 99,
+    "stargazers_count": 100,
     "open_issues_count": 1,
     "forks_count": 13
   },
   {
     "full_name": "palantir/palantir-java-format",
-    "stargazers_count": 347,
+    "stargazers_count": 348,
     "open_issues_count": 71,
     "forks_count": 43
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "wailsapp/wails",
-    "stargazers_count": 20871,
-    "open_issues_count": 241,
-    "forks_count": 1049
-  },
-  {
-    "full_name": "gorilla/websocket",
-    "stargazers_count": 20720,
-    "open_issues_count": 57,
-    "forks_count": 3492
-  },
-  {
-    "full_name": "ml-explore/mlx",
-    "stargazers_count": 12265,
-    "open_issues_count": 101,
-    "forks_count": 761
+    "stargazers_count": 20904,
+    "open_issues_count": 246,
+    "forks_count": 1050
   }
 ]
