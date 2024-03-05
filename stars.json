@@ -1,9 +1,45 @@
 [
   {
-    "full_name": "flaneur2020/crabml",
-    "stargazers_count": 127,
-    "open_issues_count": 5,
-    "forks_count": 3
+    "full_name": "gitbutlerapp/gitbutler",
+    "stargazers_count": 8765,
+    "open_issues_count": 193,
+    "forks_count": 361
+  },
+  {
+    "full_name": "tylertreat/comcast",
+    "stargazers_count": 10185,
+    "open_issues_count": 27,
+    "forks_count": 378
+  },
+  {
+    "full_name": "ZoeyVid/cloudflared",
+    "stargazers_count": 10,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "ollama/ollama",
+    "stargazers_count": 44223,
+    "open_issues_count": 763,
+    "forks_count": 2897
+  },
+  {
+    "full_name": "pkoukk/tiktoken-go",
+    "stargazers_count": 500,
+    "open_issues_count": 7,
+    "forks_count": 41
+  },
+  {
+    "full_name": "Calcium-Ion/new-api",
+    "stargazers_count": 896,
+    "open_issues_count": 29,
+    "forks_count": 227
+  },
+  {
+    "full_name": "crabml/crabml",
+    "stargazers_count": 215,
+    "open_issues_count": 17,
+    "forks_count": 13
   },
   {
     "full_name": "Cainier/gpt-tokens",
@@ -20,86 +56,86 @@
   {
     "full_name": "scateu/tsv_edl.vim",
     "stargazers_count": 59,
-    "open_issues_count": 0,
-    "forks_count": 3
+    "open_issues_count": 1,
+    "forks_count": 4
   },
   {
     "full_name": "outline/outline",
-    "stargazers_count": 23311,
-    "open_issues_count": 90,
-    "forks_count": 1902
+    "stargazers_count": 23373,
+    "open_issues_count": 99,
+    "forks_count": 1904
   },
   {
     "full_name": "webserver-llc/angie",
-    "stargazers_count": 974,
-    "open_issues_count": 28,
-    "forks_count": 55
+    "stargazers_count": 977,
+    "open_issues_count": 29,
+    "forks_count": 56
   },
   {
     "full_name": "idank/explainshell",
-    "stargazers_count": 12686,
+    "stargazers_count": 12701,
     "open_issues_count": 147,
     "forks_count": 767
   },
   {
     "full_name": "BerriAI/litellm",
-    "stargazers_count": 5740,
-    "open_issues_count": 368,
-    "forks_count": 577
+    "stargazers_count": 5806,
+    "open_issues_count": 381,
+    "forks_count": 589
   },
   {
     "full_name": "redis/ioredis",
-    "stargazers_count": 13021,
-    "open_issues_count": 300,
-    "forks_count": 1070
+    "stargazers_count": 13418,
+    "open_issues_count": 301,
+    "forks_count": 1145
   },
   {
     "full_name": "labring/FastGPT",
-    "stargazers_count": 10339,
-    "open_issues_count": 59,
-    "forks_count": 2381
+    "stargazers_count": 10475,
+    "open_issues_count": 58,
+    "forks_count": 2422
   },
   {
     "full_name": "jaywcjlove/reference",
-    "stargazers_count": 9077,
-    "open_issues_count": 119,
-    "forks_count": 1347
+    "stargazers_count": 9474,
+    "open_issues_count": 123,
+    "forks_count": 1376
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3605,
+    "stargazers_count": 3608,
     "open_issues_count": 247,
-    "forks_count": 655
+    "forks_count": 657
   },
   {
     "full_name": "zeabur/zeabur",
-    "stargazers_count": 273,
-    "open_issues_count": 7,
+    "stargazers_count": 277,
+    "open_issues_count": 6,
     "forks_count": 54
   },
   {
     "full_name": "openai-translator/openai-translator",
-    "stargazers_count": 20930,
-    "open_issues_count": 353,
-    "forks_count": 1528
+    "stargazers_count": 21141,
+    "open_issues_count": 362,
+    "forks_count": 1546
   },
   {
     "full_name": "real-logic/aeron",
-    "stargazers_count": 6975,
-    "open_issues_count": 24,
+    "stargazers_count": 6982,
+    "open_issues_count": 22,
     "forks_count": 839
   },
   {
     "full_name": "kasmtech/KasmVNC",
-    "stargazers_count": 2117,
-    "open_issues_count": 52,
-    "forks_count": 239
+    "stargazers_count": 2131,
+    "open_issues_count": 54,
+    "forks_count": 242
   },
   {
     "full_name": "argmaxinc/WhisperKit",
-    "stargazers_count": 1274,
-    "open_issues_count": 21,
-    "forks_count": 79
+    "stargazers_count": 1534,
+    "open_issues_count": 25,
+    "forks_count": 123
   },
   {
     "full_name": "s4u/setup-maven-action",
@@ -115,15 +151,15 @@
   },
   {
     "full_name": "nodejs/node-gyp",
-    "stargazers_count": 9562,
-    "open_issues_count": 204,
-    "forks_count": 1755
+    "stargazers_count": 9568,
+    "open_issues_count": 205,
+    "forks_count": 1754
   },
   {
     "full_name": "yihong0618/bilingual_book_maker",
-    "stargazers_count": 6692,
+    "stargazers_count": 6704,
     "open_issues_count": 111,
-    "forks_count": 982
+    "forks_count": 981
   },
   {
     "full_name": "vercel/hazel",
@@ -133,50 +169,14 @@
   },
   {
     "full_name": "ejoy/vaststars",
-    "stargazers_count": 338,
+    "stargazers_count": 347,
     "open_issues_count": 0,
     "forks_count": 41
   },
   {
     "full_name": "Whisky-App/Whisky",
-    "stargazers_count": 9127,
-    "open_issues_count": 172,
-    "forks_count": 194
-  },
-  {
-    "full_name": "tyxsspa/AnyText",
-    "stargazers_count": 3474,
-    "open_issues_count": 55,
-    "forks_count": 219
-  },
-  {
-    "full_name": "pi0/tired-maintainer",
-    "stargazers_count": 285,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "zed-industries/zed",
-    "stargazers_count": 26856,
-    "open_issues_count": 1507,
-    "forks_count": 1057
-  },
-  {
-    "full_name": "shopspring/decimal",
-    "stargazers_count": 5750,
-    "open_issues_count": 112,
-    "forks_count": 593
-  },
-  {
-    "full_name": "volta-cli/volta",
-    "stargazers_count": 9579,
-    "open_issues_count": 259,
-    "forks_count": 201
-  },
-  {
-    "full_name": "spotify/basic-pitch",
-    "stargazers_count": 2784,
-    "open_issues_count": 28,
-    "forks_count": 195
+    "stargazers_count": 9214,
+    "open_issues_count": 174,
+    "forks_count": 197
   }
 ]
