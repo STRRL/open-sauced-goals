@@ -1,9 +1,27 @@
 [
   {
+    "full_name": "GreptimeTeam/demo-scene",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "zu1k/nali",
+    "stargazers_count": 3499,
+    "open_issues_count": 9,
+    "forks_count": 324
+  },
+  {
+    "full_name": "vvbbnn00/WARP-Clash-API",
+    "stargazers_count": 5034,
+    "open_issues_count": 1,
+    "forks_count": 707
+  },
+  {
     "full_name": "gitbutlerapp/gitbutler",
-    "stargazers_count": 8765,
-    "open_issues_count": 193,
-    "forks_count": 361
+    "stargazers_count": 8952,
+    "open_issues_count": 197,
+    "forks_count": 368
   },
   {
     "full_name": "tylertreat/comcast",
@@ -19,32 +37,32 @@
   },
   {
     "full_name": "ollama/ollama",
-    "stargazers_count": 44223,
-    "open_issues_count": 763,
-    "forks_count": 2897
+    "stargazers_count": 45436,
+    "open_issues_count": 787,
+    "forks_count": 3008
   },
   {
     "full_name": "pkoukk/tiktoken-go",
-    "stargazers_count": 500,
+    "stargazers_count": 504,
     "open_issues_count": 7,
-    "forks_count": 41
+    "forks_count": 43
   },
   {
     "full_name": "Calcium-Ion/new-api",
-    "stargazers_count": 896,
-    "open_issues_count": 29,
-    "forks_count": 227
+    "stargazers_count": 931,
+    "open_issues_count": 32,
+    "forks_count": 231
   },
   {
     "full_name": "crabml/crabml",
-    "stargazers_count": 215,
-    "open_issues_count": 17,
-    "forks_count": 13
+    "stargazers_count": 239,
+    "open_issues_count": 23,
+    "forks_count": 16
   },
   {
     "full_name": "Cainier/gpt-tokens",
     "stargazers_count": 79,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 8
   },
   {
@@ -61,122 +79,104 @@
   },
   {
     "full_name": "outline/outline",
-    "stargazers_count": 23373,
-    "open_issues_count": 99,
-    "forks_count": 1904
+    "stargazers_count": 23426,
+    "open_issues_count": 97,
+    "forks_count": 1909
   },
   {
     "full_name": "webserver-llc/angie",
-    "stargazers_count": 977,
-    "open_issues_count": 29,
+    "stargazers_count": 981,
+    "open_issues_count": 30,
     "forks_count": 56
   },
   {
     "full_name": "idank/explainshell",
-    "stargazers_count": 12701,
+    "stargazers_count": 12707,
     "open_issues_count": 147,
-    "forks_count": 767
+    "forks_count": 768
   },
   {
     "full_name": "BerriAI/litellm",
-    "stargazers_count": 5806,
-    "open_issues_count": 381,
-    "forks_count": 589
+    "stargazers_count": 5900,
+    "open_issues_count": 398,
+    "forks_count": 595
   },
   {
     "full_name": "redis/ioredis",
-    "stargazers_count": 13418,
-    "open_issues_count": 301,
-    "forks_count": 1145
+    "stargazers_count": 13542,
+    "open_issues_count": 304,
+    "forks_count": 1158
   },
   {
     "full_name": "labring/FastGPT",
-    "stargazers_count": 10475,
-    "open_issues_count": 58,
-    "forks_count": 2422
+    "stargazers_count": 10656,
+    "open_issues_count": 62,
+    "forks_count": 2486
   },
   {
     "full_name": "jaywcjlove/reference",
-    "stargazers_count": 9474,
-    "open_issues_count": 123,
-    "forks_count": 1376
+    "stargazers_count": 9796,
+    "open_issues_count": 124,
+    "forks_count": 1436
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3608,
-    "open_issues_count": 247,
+    "stargazers_count": 3610,
+    "open_issues_count": 249,
     "forks_count": 657
   },
   {
     "full_name": "zeabur/zeabur",
     "stargazers_count": 277,
-    "open_issues_count": 6,
-    "forks_count": 54
+    "open_issues_count": 5,
+    "forks_count": 55
   },
   {
     "full_name": "openai-translator/openai-translator",
-    "stargazers_count": 21141,
-    "open_issues_count": 362,
-    "forks_count": 1546
+    "stargazers_count": 21681,
+    "open_issues_count": 363,
+    "forks_count": 1581
   },
   {
     "full_name": "real-logic/aeron",
-    "stargazers_count": 6982,
+    "stargazers_count": 6988,
     "open_issues_count": 22,
-    "forks_count": 839
+    "forks_count": 840
   },
   {
     "full_name": "kasmtech/KasmVNC",
-    "stargazers_count": 2131,
+    "stargazers_count": 2137,
     "open_issues_count": 54,
-    "forks_count": 242
+    "forks_count": 244
   },
   {
     "full_name": "argmaxinc/WhisperKit",
-    "stargazers_count": 1534,
-    "open_issues_count": 25,
-    "forks_count": 123
+    "stargazers_count": 1635,
+    "open_issues_count": 28,
+    "forks_count": 130
   },
   {
     "full_name": "s4u/setup-maven-action",
-    "stargazers_count": 45,
+    "stargazers_count": 46,
     "open_issues_count": 6,
     "forks_count": 15
   },
   {
     "full_name": "pot-app/Selection",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "nodejs/node-gyp",
-    "stargazers_count": 9568,
-    "open_issues_count": 205,
+    "stargazers_count": 9577,
+    "open_issues_count": 204,
     "forks_count": 1754
   },
   {
     "full_name": "yihong0618/bilingual_book_maker",
-    "stargazers_count": 6704,
+    "stargazers_count": 6709,
     "open_issues_count": 111,
-    "forks_count": 981
-  },
-  {
-    "full_name": "vercel/hazel",
-    "stargazers_count": 2855,
-    "open_issues_count": 57,
-    "forks_count": 336
-  },
-  {
-    "full_name": "ejoy/vaststars",
-    "stargazers_count": 347,
-    "open_issues_count": 0,
-    "forks_count": 41
-  },
-  {
-    "full_name": "Whisky-App/Whisky",
-    "stargazers_count": 9214,
-    "open_issues_count": 174,
-    "forks_count": 197
+    "forks_count": 983
   }
 ]
