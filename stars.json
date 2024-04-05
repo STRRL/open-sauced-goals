@@ -1,37 +1,67 @@
 [
   {
+    "full_name": "fluencelabs/nox",
+    "stargazers_count": 841,
+    "open_issues_count": 17,
+    "forks_count": 106
+  },
+  {
+    "full_name": "nilsherzig/LLocalSearch",
+    "stargazers_count": 2292,
+    "open_issues_count": 20,
+    "forks_count": 89
+  },
+  {
+    "full_name": "searxng/searxng",
+    "stargazers_count": 6876,
+    "open_issues_count": 253,
+    "forks_count": 877
+  },
+  {
+    "full_name": "electron/update.electronjs.org",
+    "stargazers_count": 559,
+    "open_issues_count": 22,
+    "forks_count": 64
+  },
+  {
+    "full_name": "yue/boilerplate-nodejs",
+    "stargazers_count": 21,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
     "full_name": "lobehub/lobe-ui",
-    "stargazers_count": 580,
-    "open_issues_count": 9,
-    "forks_count": 75
+    "stargazers_count": 589,
+    "open_issues_count": 10,
+    "forks_count": 77
   },
   {
     "full_name": "ant-design/pro-chat",
-    "stargazers_count": 395,
-    "open_issues_count": 25,
+    "stargazers_count": 396,
+    "open_issues_count": 21,
     "forks_count": 45
   },
   {
     "full_name": "facebookresearch/seamless_communication",
-    "stargazers_count": 10016,
-    "open_issues_count": 158,
-    "forks_count": 936
+    "stargazers_count": 10037,
+    "open_issues_count": 160,
+    "forks_count": 938
   },
   {
     "full_name": "missuo/claude2openai",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "fluencelabs/aqua",
-    "stargazers_count": 133,
-    "open_issues_count": 11,
+    "stargazers_count": 134,
+    "open_issues_count": 10,
     "forks_count": 17
   },
   {
     "full_name": "crytic/attacknet",
-    "stargazers_count": 37,
+    "stargazers_count": 39,
     "open_issues_count": 5,
     "forks_count": 3
   },
@@ -49,20 +79,20 @@
   },
   {
     "full_name": "node-red/node-red",
-    "stargazers_count": 18430,
-    "open_issues_count": 359,
-    "forks_count": 3259
+    "stargazers_count": 18443,
+    "open_issues_count": 360,
+    "forks_count": 3261
   },
   {
     "full_name": "comfyanonymous/ComfyUI",
-    "stargazers_count": 30418,
-    "open_issues_count": 1464,
-    "forks_count": 3166
+    "stargazers_count": 30660,
+    "open_issues_count": 1481,
+    "forks_count": 3194
   },
   {
     "full_name": "vitest-dev/vitest",
-    "stargazers_count": 11656,
-    "open_issues_count": 307,
+    "stargazers_count": 11668,
+    "open_issues_count": 306,
     "forks_count": 1024
   },
   {
@@ -75,7 +105,7 @@
     "full_name": "sindresorhus/file-icon",
     "stargazers_count": 205,
     "open_issues_count": 0,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "sindresorhus/active-win",
@@ -85,98 +115,68 @@
   },
   {
     "full_name": "ianarawjo/ChainForge",
-    "stargazers_count": 1851,
+    "stargazers_count": 1861,
     "open_issues_count": 37,
-    "forks_count": 127
+    "forks_count": 128
   },
   {
     "full_name": "railwayapp/nixpacks",
-    "stargazers_count": 2073,
+    "stargazers_count": 2079,
     "open_issues_count": 77,
     "forks_count": 185
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 317175,
+    "stargazers_count": 317610,
     "open_issues_count": 41,
-    "forks_count": 59534
+    "forks_count": 59578
   },
   {
     "full_name": "shikijs/shiki",
-    "stargazers_count": 8278,
-    "open_issues_count": 13,
-    "forks_count": 301
+    "stargazers_count": 8310,
+    "open_issues_count": 12,
+    "forks_count": 304
   },
   {
     "full_name": "joaomdmoura/crewAI",
-    "stargazers_count": 10976,
-    "open_issues_count": 172,
-    "forks_count": 1358
+    "stargazers_count": 11230,
+    "open_issues_count": 186,
+    "forks_count": 1386
   },
   {
     "full_name": "yuka-friends/Windrecorder",
-    "stargazers_count": 870,
+    "stargazers_count": 876,
     "open_issues_count": 18,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "cli/oauth",
     "stargazers_count": 435,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 52
   },
   {
     "full_name": "caprover/caprover",
-    "stargazers_count": 12059,
+    "stargazers_count": 12078,
     "open_issues_count": 124,
-    "forks_count": 772
+    "forks_count": 773
   },
   {
     "full_name": "microsoft/retina",
-    "stargazers_count": 2254,
-    "open_issues_count": 49,
-    "forks_count": 139
+    "stargazers_count": 2300,
+    "open_issues_count": 57,
+    "forks_count": 144
   },
   {
     "full_name": "openobserve/openobserve",
-    "stargazers_count": 8960,
-    "open_issues_count": 324,
-    "forks_count": 297
+    "stargazers_count": 9134,
+    "open_issues_count": 278,
+    "forks_count": 302
   },
   {
     "full_name": "zyddnys/manga-image-translator",
-    "stargazers_count": 4042,
-    "open_issues_count": 101,
+    "stargazers_count": 4064,
+    "open_issues_count": 103,
     "forks_count": 417
-  },
-  {
-    "full_name": "j178/leetgo",
-    "stargazers_count": 508,
-    "open_issues_count": 13,
-    "forks_count": 32
-  },
-  {
-    "full_name": "supabase/supavisor",
-    "stargazers_count": 1555,
-    "open_issues_count": 40,
-    "forks_count": 42
-  },
-  {
-    "full_name": "supabase/storage",
-    "stargazers_count": 591,
-    "open_issues_count": 38,
-    "forks_count": 87
-  },
-  {
-    "full_name": "olix0r/kubert",
-    "stargazers_count": 112,
-    "open_issues_count": 4,
-    "forks_count": 11
-  },
-  {
-    "full_name": "web1n/wechat-universal-flatpak",
-    "stargazers_count": 337,
-    "open_issues_count": 11,
-    "forks_count": 18
   }
 ]
